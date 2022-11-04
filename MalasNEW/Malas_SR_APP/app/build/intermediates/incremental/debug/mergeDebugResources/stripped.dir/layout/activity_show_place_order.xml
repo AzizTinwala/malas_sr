@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_territory_stock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Territory Name"
+        android:textSize="12sp" />
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_bg_01"
+        android:orientation="horizontal">
+
+
+        <EditText
+            android:id="@+id/spnr_distributr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/desc_spinner_bg"
+            android:drawablePadding="5dp"
+            android:drawableRight="@drawable/drop_down_icon"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxLength="30"
+            android:focusable="false"
+            android:hint="Select Distributor"
+            android:padding="5dp"
+            android:textSize="13sp" />
+
+
+        <ImageView
+            android:id="@+id/iv_save_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/save_button" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/tvCategoryName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.3"
+            android:gravity="center_horizontal"
+            android:text="Category Name"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvProductName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.3"
+            android:gravity="center_horizontal"
+            android:text="Product Name"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvDifference"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center_horizontal"
+            android:text="SOH (Piece)"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvInbox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center_horizontal"
+            android:text="SOQ (Box)"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_view_show_place_order"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+<!--    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdgeLength="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <com.malas.krishna.malasapp.view.NonScrollListView
+            android:id="@+id/list_view_show_place_order"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent" />
+
+    </ScrollView>-->
+
+</LinearLayout>

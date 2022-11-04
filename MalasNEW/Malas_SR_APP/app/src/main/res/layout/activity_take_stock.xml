@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_territory_stock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Territory Name"
+        android:textSize="12sp" />
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_bg_01"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+<!--        <Spinner
+            android:id="@+id/spnr_distributr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/dist_bg"
+            android:dropDownSelector="@drawable/dist_down_arrow" />-->
+
+        <EditText
+            android:id="@+id/spnr_distributr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/desc_spinner_bg"
+            android:drawableRight="@drawable/drop_down_icon"
+            android:drawablePadding="5dp"
+            android:ellipsize="end"
+            android:focusable="false"
+            android:hint="Select Distributor"
+            android:maxLength="30"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:textSize="13sp" />
+
+
+        <ImageView
+            android:id="@+id/iv_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            android:src="@drawable/add_icon" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdgeLength="0dp"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <com.malas.appsr.malasapp.view.NonScrollListView
+            android:id="@+id/list_view_show_outlet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </ScrollView>
+
+</LinearLayout>

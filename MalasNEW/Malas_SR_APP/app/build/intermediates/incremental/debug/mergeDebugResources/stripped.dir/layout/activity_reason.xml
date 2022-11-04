@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_design"
+    android:theme="@style/AppTheme.NoActionBar">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/reason_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:title="Reason"
+
+        android:layout_alignParentTop="true"/>
+
+    <ListView
+        android:id="@+id/lv_reason"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lll_reason"
+        android:layout_below="@id/reason_toolbar">
+
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/lll_reason"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/btn_cancel_reason"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="0.5"
+            android:background="#0150ff"
+            android:text="cancel"
+
+            android:textColor="@color/White"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_save_reason"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="0.5"
+            android:background="#0150ff"
+            android:text="Save"
+            android:textColor="@color/White"
+            android:textSize="16sp" />
+    </LinearLayout>
+</RelativeLayout>

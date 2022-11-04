@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_route"
+            android:icon="@drawable/baseline_room_purple_900_24dp"
+            android:title="@string/add_route" />
+
+        <item
+            android:id="@+id/nav_outlet"
+            android:icon="@drawable/baseline_store_red_a400_24dp"
+            android:title="@string/add_outlet" />
+
+        <item
+            android:id="@+id/nav_take_stock"
+            android:icon="@drawable/ic_stock"
+            android:title="@string/take_stock" />
+
+        <item
+            android:id="@+id/nav_take_order"
+            android:icon="@drawable/baseline_assignment_orange_400_24dp"
+            android:title="@string/take_order" />
+
+        <item
+            android:id="@+id/nav_place_order"
+            android:icon="@drawable/baseline_shopping_cart_light_green_800_24dp"
+            android:title="@string/distributor_order" />
+        <item
+            android:id="@+id/nav_daily_report"
+            android:icon="@drawable/baseline_child_friendly_yellow_700_24dp"
+            android:title="@string/day_end" />
+        <item
+            android:id="@+id/nav_leave_management"
+            android:icon="@drawable/baseline_av_timer_deep_purple_800_24dp"
+            android:title="@string/leave_management" />
+        <item
+            android:id="@+id/nav_expense_management"
+            android:icon="@drawable/ic_outline_calculate_24"
+            android:title="@string/expense_management" />
+
+        <item
+            android:id="@+id/nav_holiday_calendar"
+            android:icon="@drawable/ic_twotone_calendar_today_24"
+            android:title="@string/holiday_calendar" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/baseline_pie_chart_cyan_700_24dp"
+            android:title="@string/reports" />
+        <item
+            android:id="@+id/nav_salary_slip"
+            android:icon="@drawable/ic_baseline_text_snippet_24"
+            android:title="@string/salary_slip" />
+
+        <item
+            android:id="@+id/nav_catalogue"
+            android:icon="@drawable/ic_baseline_featured_play_list_24"
+            android:title="@string/catalogue" />
+        <item
+            android:id="@+id/nav_broadcast"
+            android:icon="@drawable/baseline_notifications_active_blue_900_24dp"
+            android:title="@string/broadcast" />
+
+        <item
+            android:id="@+id/nav_activity"
+            android:icon="@drawable/baseline_local_activity_black_24dp"
+            android:title="@string/activity" />
+
+        <item
+            android:id="@+id/nav_show_profile"
+            android:icon="@drawable/baseline_account_circle_purple_600_24dp"
+            android:title="@string/profile" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/baseline_location_city_red_800_24dp"
+            android:title="@string/about_us" />
+
+  <item
+            android:id="@+id/nav_tour_plan"
+            android:icon="@drawable/baseline_location_city_red_800_24dp"
+            android:title="@string/tour_plan" />
+
+
+    </group>
+
+</menu>

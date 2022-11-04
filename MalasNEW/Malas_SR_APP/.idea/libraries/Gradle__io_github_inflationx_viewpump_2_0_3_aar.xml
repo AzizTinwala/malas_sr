@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.inflationx:viewpump:2.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/37c20a4fecb72f6061cf44ae17550d88/transformed/jetified-viewpump-2.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/37c20a4fecb72f6061cf44ae17550d88/transformed/jetified-viewpump-2.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/37c20a4fecb72f6061cf44ae17550d88/transformed/jetified-viewpump-2.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

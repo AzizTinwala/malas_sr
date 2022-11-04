@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White">
+
+    <TextView
+        android:id="@+id/tv_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+        android:text="Reviews"
+        android:textAllCaps="true"
+        android:textColor="@color/White"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+
+    <ListView
+        android:id="@+id/lv_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btn_ok"
+        android:background="@color/White"
+        android:layout_below="@+id/tv_list"
+        />
+
+
+    <Button
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/login_btn_selector"
+        android:padding="4dp"
+        android:text="BACK"
+        android:textColor="@color/White" />
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f4f4f4"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_bg_01"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvDistributorName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="5dp"
+            android:focusable="false"
+            android:hint="Distributor Name"
+            android:padding="5dp"
+            android:text=""
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxLength="20"
+            android:textColor="@color/White"
+            android:textColorHint="@color/White"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tvRouteName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tvDistributorName"
+            android:drawablePadding="5dp"
+            android:focusable="false"
+            android:hint="Route Name"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text=""
+            android:maxLength="30"
+            android:padding="5dp"
+            android:textColor="@color/White"
+            android:textColorHint="@color/White"
+            android:textSize="13sp" />
+
+
+    </RelativeLayout>
+
+
+    <ExpandableListView
+        android:id="@+id/lvjam"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="@drawable/dist_bg" />
+
+
+</LinearLayout>

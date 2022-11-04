@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/customer_feedback_details.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/customer_feedback_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_home.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_confirm_stocks.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_confirm_stocks.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/forget_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/forget_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/rating_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/rating_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_salary_slip_preview.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_salary_slip_preview.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/content_confirm_outlet_orders.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/content_confirm_outlet_orders.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/fragment_first.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/sync_attendance_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/sync_attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/item_list_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/item_list_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/place_order_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/place_order_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/attendance_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/nav_header_home.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/product_select_act.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/product_select_act.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_edit_taken_stock.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_edit_taken_stock.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/confirm_stock_item_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirm_stock_item_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_change_password.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/compoff_request_status.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/compoff_request_status.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/half_circle_activity.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/half_circle_activity.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_request_status.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_request_status.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_revert_request_status_table.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_revert_request_status_table.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/previous_place_order_list_group.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/previous_place_order_list_group.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_add_new_outlet.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_add_new_outlet.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/previous_attendance_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/previous_attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/category_list_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/category_list_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/fragment_first2.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_about_us.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_view_take_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_view_take_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_leave.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_leave.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_image_upload_grid_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_image_upload_grid_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/tour_week_item.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/tour_week_item.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/jam_list_item.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_list_item.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_birthday_greetings.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_birthday_greetings.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/place_order_item_list_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/place_order_item_list_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_expense_management.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_expense_management.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/offline_list_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/offline_list_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/productivity_list.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/productivity_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_clock_in_out.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_clock_in_out.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/category_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/category_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/content_home.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/content_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/tour_plan_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/tour_plan_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_request_status_table.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_request_status_table.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_exit_form.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_exit_form.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_customer_details.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_customer_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/target_child.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/target_child.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_user_profile.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_show_place_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_show_place_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/jam_list_group_for_outlet_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_list_group_for_outlet_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_splash.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/add_take_stock.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/add_take_stock.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/app_bar_home.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/login_screen.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/login_screen.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/confirm_outlet_order_item_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirm_outlet_order_item_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_report_grid.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_report_grid.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/reason_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/reason_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_request.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_request.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/detail_listview_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/detail_listview_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/customer_details.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/customer_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/fragment_second2.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_unique_outlet_report.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_unique_outlet_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/spinner_list_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/spinner_list_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_login_details_outlet.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_login_details_outlet.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_rating_act.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_rating_act.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/take_stock_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/take_stock_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/broadcast_row_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/broadcast_row_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/category_spinnner_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/category_spinnner_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/revert_frag.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/revert_frag.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_customer_form.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_customer_form.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_show_place_order_new.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_show_place_order_new.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_topview_report.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_topview_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/difference_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/difference_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_sr_activity_detail.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_sr_activity_detail.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_confirm_outlet_orders.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_confirm_outlet_orders.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_outlet_orders.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_outlet_orders.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/show_outlet.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_outlet.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/confirmation_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirmation_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/target_group.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/target_group.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/fragment_second.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/show_outlet_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_outlet_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/holiday_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/holiday_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/show_route.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_route.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_average_bill_report.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_average_bill_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_edit_taken_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_edit_taken_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/menu_button.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/menu_button.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/statelist_dialogbox.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/statelist_dialogbox.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/quantity_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/quantity_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_target.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_target.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/registration_screen.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/registration_screen.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_reason.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_reason.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_revert_submit_request.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_revert_submit_request.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/compoff_frag.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/compoff_frag.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/lv_user_territory_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/lv_user_territory_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_holiday_calendar.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_holiday_calendar.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_temp_show_place_order_new.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_temp_show_place_order_new.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/previous_place_order_list.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/previous_place_order_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_add_take_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_add_take_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/fragment_tour_plan_history.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_tour_plan_history.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_average_line_cut.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_average_line_cut.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/jam_outlet_order_list_item.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_outlet_order_list_item.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_gridview_list.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_gridview_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/city_list_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/city_list_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_customer_feedback_list_details.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_customer_feedback_list_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_revert_request_status.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_revert_request_status.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/progess_dialoge.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/progess_dialoge.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/user_territory.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/user_territory.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/confirm_place_order_list.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirm_place_order_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/list_frag.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/list_frag.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_place_order_to_distributor.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_place_order_to_distributor.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_tour_plan.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_tour_plan.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_take_stock.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_take_stock.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/lv_attendance_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/lv_attendance_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/average_bill_value_list.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/average_bill_value_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_offline_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_offline_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/other_work_attendance_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/other_work_attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_details.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/fragment_tour_plan.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_tour_plan.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/jam_list_group.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_list_group.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_add_catagory.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_add_catagory.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/lv_attendance_sync_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/lv_attendance_sync_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/dialog_multiple_option.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/dialog_multiple_option.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_image_zoom_preview.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_image_zoom_preview.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/unique_outlet_report_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/unique_outlet_report_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/average_line_cut_list.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/average_line_cut_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_upload_image.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_upload_image.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/otp_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/otp_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/camera_dailog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/camera_dailog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/dialog_rating_number.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/dialog_rating_number.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_productivity_report.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_productivity_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/user_territory_dialog.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/user_territory_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_broadcast.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_broadcast.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_take_stock_second.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_take_stock_second.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_sr_activity.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_sr_activity.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/add_tour_plan_layout.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/add_tour_plan_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/show_outlet_order_row.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_outlet_order_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/state_list_textview.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/state_list_textview.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_confirm_place_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_confirm_place_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_nav_route.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_nav_route.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/leave_compoff_status_table.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_compoff_status_table.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_take_order.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_take_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-mergeDebugResources-63:/layout/activity_catalogue.xml",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_catalogue.xml"
+    }
+]

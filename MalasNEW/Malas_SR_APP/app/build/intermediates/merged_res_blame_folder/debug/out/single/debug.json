@@ -1,0 +1,2314 @@
+[
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxhdpi_malas_logo_foreground.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxhdpi/malas_logo_foreground.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_text_snippet_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_text_snippet_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_av_timer_blue_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_av_timer_blue_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_log_bak.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/log_bak.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_malas_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/malas_logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_card_travel_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_card_travel_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_address_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/address_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_av_timer_deep_purple_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_av_timer_deep_purple_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_outline_calculate_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_outline_calculate_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_assignment_orange_400_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_assignment_orange_400_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_bottom_nav.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/bottom_nav.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_list_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_list_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_unique_outlet_report.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_unique_outlet_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_back_design.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/back_design.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_room_purple_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_room_purple_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_average_line_cut_list.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/average_line_cut_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_confirm_place_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_confirm_place_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi-v21_ic_baseline_featured_play_list_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi-v21/ic_baseline_featured_play_list_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_shopping_cart_light_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_shopping_cart_light_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/menu_home.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/menu/home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_store_red_a400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_store_red_a400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_cancel_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/cancel_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_target.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_target.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_confirmation_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirmation_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_productivity_report.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_productivity_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_outline_calculate_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_outline_calculate_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_register_button_selector.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/register_button_selector.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_logo2.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/logo2.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_register_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/register_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_tour_plan_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/tour_plan_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_compoff_request_status.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/compoff_request_status.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_clock_in_out.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_clock_in_out.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxhdpi_malas_logo_round.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxhdpi/malas_logo_round.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_outlet_orders.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_outlet_orders.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_drop_down_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/drop_down_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_top_bg_01.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/top_bg_01.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_sr_activity_detail.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_sr_activity_detail.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_card_travel_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_card_travel_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_bus_alert_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_bus_alert_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_dialog_rating_number.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/dialog_rating_number.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_city_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/city_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_location_city_red_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_location_city_red_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_edittext_date.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/edittext_date.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_username_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/username_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_alc.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_alc.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_statelist_dialogbox.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/statelist_dialogbox.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_backspace_white_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_backspace_white_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_notifications_active_blue_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_notifications_active_blue_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_lock_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_lock_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_person_add_alt_1_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_person_add_alt_1_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_cancel_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/cancel_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_store_red_a400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_store_red_a400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_notifications_active_blue_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_notifications_active_blue_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_shopping_cart_light_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_shopping_cart_light_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_history_edu_green_800_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_history_edu_green_800_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_back_design.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/back_design.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_productivity.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_productivity.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_request.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_request.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_local_activity_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_local_activity_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_notifications_active_red_500_18dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_notifications_active_red_500_18dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_bday.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/bday.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_confirm_stocks.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_confirm_stocks.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_add_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/add_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_dist_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/dist_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi-v21/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_cancel_red_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_cancel_red_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_item_list_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/item_list_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_cancel_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/cancel_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_login_blue_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_login_blue_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_cancel_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/cancel_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_quantity_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/quantity_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_list_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_list_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_location_city_red_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_location_city_red_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_access_time_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_access_time_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_target_child.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/target_child.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_drop_down_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/drop_down_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_email_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/email_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_offline_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_offline_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_drawer_nav.jpg.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/drawer_nav.jpg"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_notifications_active_red_500_18dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_notifications_active_red_500_18dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_address_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/address_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_city_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/city_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_card_travel_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_card_travel_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_account_circle_purple_600_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_account_circle_purple_600_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_backspace_white_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_backspace_white_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_birthday_greetings.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_birthday_greetings.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_drop_down_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/drop_down_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_submit_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/submit_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_lock_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_lock_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_about_us.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_image.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_image.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_sync_attendance_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/sync_attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_text_snippet_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_text_snippet_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_shopping_cart_light_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_shopping_cart_light_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_edit_text_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/edit_text_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_more_con.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/more_con.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_remove_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_remove_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-hdpi_malas_logo_foreground.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-hdpi/malas_logo_foreground.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_desc_spinner_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/desc_spinner_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_logo2.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/logo2.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_backspace_white_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_backspace_white_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi-v21_ic_person_add_black_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi-v21/ic_person_add_black_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_local_activity_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_local_activity_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_notifications_active_red_500_18dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_notifications_active_red_500_18dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xhdpi_malas_logo_foreground.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xhdpi/malas_logo_foreground.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_shopping_cart_light_green_800_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_shopping_cart_light_green_800_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_notifications_active_blue_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_notifications_active_blue_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxhdpi_malas_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxhdpi/malas_logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_target_group.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/target_group.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_cloud_download_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_cloud_download_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_dob_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/dob_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_topview_report.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_topview_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_login_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_login_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_av_timer_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_av_timer_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_place_order_button.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/place_order_button.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_revert_frag.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/revert_frag.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/menu_activity_home_drawer.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_login_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/login_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_more_con.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/more_con.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_backspace_white_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_backspace_white_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_room_purple_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_room_purple_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_av_timer_deep_purple_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_av_timer_deep_purple_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_home.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_person_add_alt_1_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_person_add_alt_1_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_account_circle_purple_600_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_account_circle_purple_600_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_notifications_active_blue_900_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_notifications_active_blue_900_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_submit_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/submit_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_list_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_list_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_person_add_alt_1_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_person_add_alt_1_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_place_order_to_distributor.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_place_order_to_distributor.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_account_circle_purple_600_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_account_circle_purple_600_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_drop_down.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/drop_down.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_access_time_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_access_time_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_detail_listview_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/detail_listview_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_access_time_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_access_time_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_bus_alert_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_bus_alert_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_room_purple_900_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_room_purple_900_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_back_design.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/back_design.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi-v21_ic_image.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi-v21/ic_image.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_twotone_calendar_today_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_twotone_calendar_today_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_drop_down.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/drop_down.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_customer_feedback_list_details.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_customer_feedback_list_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/xml_fileprovider.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/xml/fileprovider.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_customer_form.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_customer_form.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_notifications_active_red_500_18dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_notifications_active_red_500_18dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_mobile_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/mobile_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_circle_img.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/circle_img.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_dialog_multiple_option.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/dialog_multiple_option.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_person_add_alt_1_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_person_add_alt_1_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_compoff_status_table.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_compoff_status_table.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_half_circle_activity.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/half_circle_activity.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_lv_attendance_sync_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/lv_attendance_sync_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_save_button.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/save_button.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_child_friendly_yellow_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_child_friendly_yellow_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_card_travel_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_card_travel_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_image_upload_grid_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_image_upload_grid_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_child_friendly_yellow_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_child_friendly_yellow_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_place_order_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/place_order_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_customer_details.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_customer_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_local_activity_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_local_activity_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_abc.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_abc.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_twotone_calendar_today_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_twotone_calendar_today_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_room_purple_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_room_purple_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_show_place_order_new.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_show_place_order_new.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_cancel_button_selector.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/cancel_button_selector.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_account_circle_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_account_circle_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xhdpi_malas_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xhdpi/malas_logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_person_add_alt_1_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_person_add_alt_1_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_login_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_login_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_child_friendly_yellow_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_child_friendly_yellow_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_dob_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/dob_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_app_bar_home.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_take_stock_second.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_take_stock_second.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_password_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/password_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_lock_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_lock_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_av_timer_deep_purple_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_av_timer_deep_purple_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_login_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_login_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_target.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_target.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_assignment_orange_400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_assignment_orange_400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_drop_down.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/drop_down.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_submit_button_selector.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/submit_button_selector.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-mdpi_malas_logo_foreground.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-mdpi/malas_logo_foreground.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_dist_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/dist_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_refresh_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_refresh_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_cloud_download_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_cloud_download_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_add_new_outlet.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_add_new_outlet.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_category_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/category_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_logo2.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/logo2.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_history_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_history_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_outline_calculate_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_outline_calculate_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_access_time_deep_purple_a700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_access_time_deep_purple_a700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_edit_pop_up_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/edit_pop_up_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_customer_feedback_details.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/customer_feedback_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_location_city_red_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_location_city_red_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_save_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_save_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_submit_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/submit_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_access_time_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_access_time_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_average_bill_value_list.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/average_bill_value_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_child_friendly_yellow_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_child_friendly_yellow_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_offline_list_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/offline_list_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_password_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/password_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_add_catagory.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_add_catagory.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_details.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_rectangle.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/rectangle.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_unique_outlet_report_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/unique_outlet_report_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_store_red_a400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_store_red_a400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_login_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/login_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_category_spinnner_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/category_spinnner_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_confirm_outlet_order_item_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirm_outlet_order_item_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_registration_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/registration_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_account_circle_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_account_circle_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_remove_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_remove_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_back_design.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-mdpi/back_design.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_bus_alert_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_bus_alert_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_login_back.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/login_back.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_cancel_red_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_cancel_red_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_store_red_a400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_store_red_a400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_history_edu_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_history_edu_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_room_purple_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_room_purple_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_dob_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/dob_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_bday.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/bday.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_registration_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/registration_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_state_list_textview.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/state_list_textview.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_save_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_save_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_shopping_cart_light_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_shopping_cart_light_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_progess_dialoge.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/progess_dialoge.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_about_img.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/about_img.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_lv_attendance_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/lv_attendance_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_av_timer_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_av_timer_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_revert_request_status_table.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_revert_request_status_table.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_notifications_active_red_500_18dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_notifications_active_red_500_18dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_fragment_tour_plan.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_tour_plan.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_nav_header_home.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_fragment_second2.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_show_outlet_order_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_outlet_order_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_remove_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_remove_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxxhdpi_malas_logo_round.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxxhdpi/malas_logo_round.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_directions_bus_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_directions_bus_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_upload_image.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_upload_image.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_password_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/password_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_approve.jpg.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_approve.jpg"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_exit_form.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_exit_form.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_mobile_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/mobile_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_drop_down_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/drop_down_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_average_line_cut.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_average_line_cut.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_splash.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_cancel_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/cancel_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_email_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/email_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_history_edu_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_history_edu_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_salary_slip_preview.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_salary_slip_preview.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_city_list_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/city_list_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_card_travel_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_card_travel_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_cancel_bn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/cancel_bn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_cancel_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/cancel_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_change_password.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_text_snippet_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_text_snippet_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/navigation_nav_graph2.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_username_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/username_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_text_snippet_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_text_snippet_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_revert_submit_request.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_revert_submit_request.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_submit_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/submit_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_edit_pop_up_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/edit_pop_up_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_local_activity_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_local_activity_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_top_bg_01.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/top_bg_01.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/anim_rotate_clockwise.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/anim/rotate_clockwise.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_top_bg_01.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/top_bg_01.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_content_confirm_outlet_orders.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/content_confirm_outlet_orders.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxxhdpi_malas_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxxhdpi/malas_logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_ubo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_ubo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_text_snippet_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_text_snippet_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_nav_route.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_nav_route.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_user_profile.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_user_territory.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/user_territory.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_edit_text_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/edit_text_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_cloud_download_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_cloud_download_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_av_timer_deep_purple_800_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_av_timer_deep_purple_800_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_location_city_red_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_location_city_red_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_log_bak.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/log_bak.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_assignment_orange_400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_assignment_orange_400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_pie_chart_cyan_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_pie_chart_cyan_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_address_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/address_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_sales_report_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/sales_report_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-hdpi_malas_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-hdpi/malas_logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_remove_shopping_cart_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_remove_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_previous_place_order_list.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/previous_place_order_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_add_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/add_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_child_friendly_yellow_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_child_friendly_yellow_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_pie_chart_cyan_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_pie_chart_cyan_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_store_red_a400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_store_red_a400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_previous_place_order_list_group.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/previous_place_order_list_group.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_cloud_download_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_cloud_download_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_log_bak.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-mdpi/log_bak.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_take_stock_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/take_stock_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_count_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/count_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_list_frag.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/list_frag.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_rating_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/rating_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_placeholder.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/placeholder.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_history_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_history_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_login_screen.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/login_screen.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_outline_calculate_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_outline_calculate_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_back_design.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/back_design.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_bus_alert_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_bus_alert_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-mdpi_malas_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-mdpi/malas_logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_add_take_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_add_take_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_difference_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/difference_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_leave_button.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/leave_button.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_card_travel_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_card_travel_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_other_work_attendance_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/other_work_attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_outline_calculate_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_outline_calculate_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_bus_alert_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_bus_alert_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_bg_key.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/bg_key.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_jam_list_group_for_outlet_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_list_group_for_outlet_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_place_order_item_list_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/place_order_item_list_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_shopping_cart_light_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_shopping_cart_light_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_lock_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_lock_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_username_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/username_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_leave.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_leave.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_av_timer_deep_purple_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_av_timer_deep_purple_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_twotone_calendar_today_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_twotone_calendar_today_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_sr_activity.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_sr_activity.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_twotone_calendar_today_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_twotone_calendar_today_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_store_red_a400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_store_red_a400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_revert_request_status.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_revert_request_status.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_history_black_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_history_black_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_take_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_take_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_mobile_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/mobile_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_stock.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/ic_stock.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_cloud_download_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_cloud_download_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_pie_chart_cyan_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_pie_chart_cyan_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_city_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/city_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-hdpi_malas_logo_round.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-hdpi/malas_logo_round.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_top_bg_01.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/top_bg_01.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_pie_chart_cyan_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_pie_chart_cyan_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_expense_management.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_expense_management.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_account_circle_purple_600_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_account_circle_purple_600_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_notifications_active_blue_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_notifications_active_blue_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_registration_screen.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/registration_screen.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_person_add_alt_1_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_person_add_alt_1_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-mdpi_malas_logo_round.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-mdpi/malas_logo_round.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_login_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/login_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_username_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/username_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_previous_attendance_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/previous_attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_person_add_alt_1_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_person_add_alt_1_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_outline_calculate_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_outline_calculate_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_request_status_table.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_request_status_table.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_address_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/address_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_pie_chart_cyan_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_pie_chart_cyan_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_cancel_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/cancel_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_list_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_list_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_take_stock.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_take_stock.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_confirm_stock_item_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirm_stock_item_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_customer_details.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/customer_details.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_log_bak.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/log_bak.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_user_territory_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/user_territory_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_leave_request_status.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/leave_request_status.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_account_circle_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_account_circle_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_holiday_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/holiday_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_dist_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/dist_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_login_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_login_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_lv_user_territory_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/lv_user_territory_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_add_take_stock.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/add_take_stock.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_edit_text_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/edit_text_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_account_circle_purple_600_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_account_circle_purple_600_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_av_timer_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_av_timer_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_save_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_save_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_av_timer_deep_purple_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_av_timer_deep_purple_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_av_timer_deep_purple_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_av_timer_deep_purple_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_history_edu_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_history_edu_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_assignment_orange_400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_assignment_orange_400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_dist_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/dist_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_spinner_list_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/spinner_list_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_list_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_list_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_location_city_red_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_location_city_red_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_productivity_list.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/productivity_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_jam_outlet_order_list_item.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_outlet_order_list_item.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_report_grid.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_report_grid.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_cloud_download_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_cloud_download_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_login_circle.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/login_circle.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_backspace_white_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_backspace_white_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-anydpi-v26_malas_logo_round.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-anydpi-v26/malas_logo_round.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_jam_list_group.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_list_group.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_drop_down.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/drop_down.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_account_circle_purple_600_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_account_circle_purple_600_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_cancel_bn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/cancel_bn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_child_friendly_yellow_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_child_friendly_yellow_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_holiday_calendar.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_holiday_calendar.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_notifications_active_red_500_18dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_notifications_active_red_500_18dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_product_select_act.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/product_select_act.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_login_details_outlet.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_login_details_outlet.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_pie_chart_cyan_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_pie_chart_cyan_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_more_con.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/more_con.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_location_city_red_800_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_location_city_red_800_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_registration_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/registration_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_notifications_active_blue_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_notifications_active_blue_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_broadcast.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_broadcast.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_design_button_request.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/design_button_request.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_logout.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/logout.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_bday.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-mdpi/bday.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_cancel_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/cancel_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_login_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/login_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_reason.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_reason.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_login_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/login_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_login_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_login_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_card_travel_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_card_travel_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_local_activity_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_local_activity_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_menu_button.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/menu_button.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_fragment_tour_plan_history.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_tour_plan_history.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/menu_leave.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/menu/leave.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_save_button.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/save_button.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_add_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/add_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_edit_taken_stock.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_edit_taken_stock.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/menu_expense.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/menu/expense.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_email_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/email_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_lock_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_lock_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_back_design.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/back_design.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_icon_reject.jpg.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/icon_reject.jpg"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_save_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_save_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_history_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_history_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_tour_week_item.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/tour_week_item.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_cancel_red_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_cancel_red_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_history_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_history_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_cancel_red_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_cancel_red_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_assignment_orange_400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_assignment_orange_400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_bus_alert_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_bus_alert_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_camera.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_camera.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_remove_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_remove_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_ic_baseline_text_snippet_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/ic_baseline_text_snippet_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_twotone_calendar_today_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_twotone_calendar_today_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_account_circle_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_account_circle_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_assignment_orange_400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_assignment_orange_400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_history_edu_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_history_edu_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_jam_list_item.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/jam_list_item.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_account_circle_blue_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_account_circle_blue_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_pending_icon.jpg.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/pending_icon.jpg"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_password_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/password_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_bus_alert_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_bus_alert_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_show_outlet.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_outlet.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_forget_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/forget_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_local_activity_black_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_local_activity_black_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_register_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/register_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/raw_happy_birthday_to_you.mp3.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/raw/happy_birthday_to_you.mp3"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_room_purple_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_room_purple_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_save_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_save_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_store_red_a400_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_store_red_a400_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_attendance_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/attendance_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_add_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/add_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_calendarcircle.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/calendarcircle.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_remove_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_remove_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_save_button.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/save_button.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_tour_plan.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_tour_plan.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi-v21_ic_baseline_refresh_24.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi-v21/ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_average_bill_report.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_average_bill_report.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_history_edu_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_history_edu_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_backspace_white_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_backspace_white_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_content_home.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/content_home.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_twotone_calendar_today_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_twotone_calendar_today_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_twotone_calendar_today_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_twotone_calendar_today_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_dob_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/dob_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_more_con.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/more_con.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_show_route.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_route.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_rsz_attach_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/rsz_attach_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_bday.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/bday.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_camera_dailog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/camera_dailog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_lock_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_lock_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_add_tour_plan_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/add_tour_plan_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_email_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/email_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_list_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_list_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_baseline_remove_shopping_cart_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_baseline_remove_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/ic_baseline_search_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_location_background.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/location_background.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_child_friendly_yellow_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_child_friendly_yellow_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_list_deep_purple_a700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_list_deep_purple_a700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_cloud_download_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_cloud_download_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_assignment_orange_400_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_assignment_orange_400_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_login_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/login_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_log_bak.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/log_bak.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_access_time_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_access_time_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/menu_registration_menu.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/menu/registration_menu.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_history_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_history_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_registration_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/registration_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_account_circle_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_account_circle_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_arrow_drop_down_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_arrow_drop_down_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_av_timer_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_av_timer_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_shopping_cart_light_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_shopping_cart_light_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_fragment_second.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_backspace_white_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_backspace_white_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_outline_calculate_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_outline_calculate_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_otp_dialog.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/otp_dialog.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_fragment_first2.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_save_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_save_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-anydpi-v21_baseline_lock_blue_700_24dp.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-anydpi-v21/baseline_lock_blue_700_24dp.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_account_circle_purple_600_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_account_circle_purple_600_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_category_list_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/category_list_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/menu_tour.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/menu/tour.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xxxhdpi_malas_logo_foreground.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xxxhdpi/malas_logo_foreground.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_confirm_outlet_orders.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_confirm_outlet_orders.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_notifications_active_red_500_18dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_notifications_active_red_500_18dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-xhdpi_malas_logo_round.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-xhdpi/malas_logo_round.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_save_button.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/save_button.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/mipmap-anydpi-v26_malas_logo.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/mipmap-anydpi-v26/malas_logo.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_ic_baseline_directions_bus_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/ic_baseline_directions_bus_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_ic_baseline_save_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/ic_baseline_save_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_text_snippet_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_text_snippet_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_confirm_place_order_list.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/confirm_place_order_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_cancel_red_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_cancel_red_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_image_zoom_preview.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_image_zoom_preview.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_reason_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/reason_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_show_outlet_row.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/show_outlet_row.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_ic_person_add_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_login_btn.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/login_btn.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_cancel_red_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_cancel_red_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_account_circle_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_account_circle_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_av_timer_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_av_timer_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_mobile_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/mobile_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_access_time_deep_purple_a700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_access_time_deep_purple_a700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_fragment_first.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_baseline_login_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi/baseline_login_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_catalogue.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_catalogue.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_history_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_history_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi-v21_ic_camera.xml.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xhdpi-v21/ic_camera.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_local_activity_black_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_local_activity_black_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_edit_pop_up_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/edit_pop_up_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_room_purple_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_room_purple_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_view_take_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_view_take_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_history_edu_green_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_history_edu_green_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_show_place_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_show_place_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_compoff_frag.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/compoff_frag.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_cancel_bn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/cancel_bn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-ldpi_baseline_location_city_red_800_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-ldpi/baseline_location_city_red_800_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_gridview_list.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_gridview_list.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xhdpi_login_btn_selector.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xhdpi/login_btn_selector.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_baseline_notifications_active_blue_900_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxhdpi/baseline_notifications_active_blue_900_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_malas_log.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/malas_log.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable_mybutton.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable/mybutton.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_register_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/register_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_baseline_pie_chart_cyan_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/baseline_pie_chart_cyan_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_baseline_cancel_red_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-xxxhdpi/baseline_cancel_red_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_edit_pop_up_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/edit_pop_up_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_logo2.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/logo2.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_edit_taken_order.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_edit_taken_order.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_temp_show_place_order_new.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_temp_show_place_order_new.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-mdpi_baseline_av_timer_blue_700_24dp.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-mdpi/baseline_av_timer_blue_700_24dp.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_cancel_bn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/cancel_bn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_register_btn_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/register_btn_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_logo.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxhdpi_edit_text_bg.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxhdpi/edit_text_bg.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_activity_rating_act.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/activity_rating_act.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-xxxhdpi_city_icon.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-xxxhdpi/city_icon.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_ic_baseline_featured_play_list_24.png.flat",
+        "source": "com.malas.appsr.malasapp-pngs-59:/drawable-hdpi/ic_baseline_featured_play_list_24.png"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/layout_broadcast_row_layout.xml.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/layout/broadcast_row_layout.xml"
+    },
+    {
+        "merged": "com.malas.appsr.malasapp-merged_res-64:/drawable-hdpi_bday.png.flat",
+        "source": "com.malas.appsr.malasapp-main-66:/drawable-hdpi/bday.png"
+    }
+]

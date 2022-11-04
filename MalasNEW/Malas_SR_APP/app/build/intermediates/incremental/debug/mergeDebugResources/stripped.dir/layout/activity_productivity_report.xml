@@ -1,0 +1,305 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_territory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:padding="5dp"
+        android:text="Territory Name"
+        android:textSize="12sp" />
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_bg_01"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Day Wise Productivity"
+            android:textColor="@color/White"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:background="@drawable/desc_spinner_bg"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Year"
+                android:textAlignment="center"
+                android:textSize="14dp" />
+
+            <EditText
+                android:id="@+id/spnr_financialYear"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="0.5"
+                android:background="@drawable/desc_spinner_bg"
+                android:drawableRight="@drawable/drop_down_icon"
+                android:drawablePadding="5dp"
+                android:focusable="false"
+                android:gravity="center_horizontal"
+                android:hint="Select Year"
+                android:padding="5dp"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:background="@drawable/desc_spinner_bg"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Month"
+                android:textAlignment="center"
+                android:textSize="14dp" />
+
+            <EditText
+                android:id="@+id/spnr_financialMonth"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="0.5"
+                android:background="@drawable/desc_spinner_bg"
+                android:drawableRight="@drawable/drop_down_icon"
+                android:drawablePadding="5dp"
+                android:focusable="false"
+                android:gravity="center_horizontal"
+                android:hint="Select Month"
+                android:padding="5dp"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+        <!--
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/desc_spinner_bg"
+                        android:padding="5dp"
+                        android:text="Distributor"
+                        android:textAlignment="center"
+                        android:textSize="14dp" />
+
+                    <EditText
+                        android:id="@+id/spnr_distributor"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="0.5"
+                        android:background="@drawable/desc_spinner_bg"
+                        android:drawablePadding="5dp"
+                        android:drawableRight="@drawable/drop_down_icon"
+                        android:focusable="false"
+                        android:gravity="center_horizontal"
+                        android:hint="Select Distributor"
+                        android:maxLength="15"
+                        android:maxLines="1"
+                        android:padding="5dp"
+                        android:text=""
+                        android:textSize="13sp" />
+
+                </LinearLayout>-->
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.1"
+                android:gravity="center_horizontal"
+                android:text="Total"
+                android:textColor="@color/DarkOrange"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_total_outlet_visit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:gravity="center_horizontal"
+                android:text=""
+                android:textColor="@color/DarkOrange"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_total_outlet_productive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:gravity="center_horizontal"
+                android:text=""
+                android:textColor="@color/DarkOrange"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_productivity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:gravity="center_horizontal"
+                android:text=""
+                android:textColor="@color/DarkOrange"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/rounded_corner"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="2dp"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/tvDate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="0.1"
+                android:gravity="center_horizontal"
+                android:text="Date"
+                android:textColor="@color/Blue"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/Gray" />
+
+            <TextView
+                android:id="@+id/tvTotalOutletVisit"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="0.3"
+                android:gravity="center_horizontal"
+                android:text="Total Outlet\nVisit"
+
+                android:textColor="@color/Blue"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/Gray" />
+
+            <TextView
+                android:id="@+id/tvTotalOuletProductive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="0.3"
+                android:gravity="center_horizontal"
+                android:text="Total Outlet Productive"
+                android:textColor="@color/Blue"
+                android:textStyle="bold" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/Gray" />
+
+            <TextView
+                android:id="@+id/tvProductivity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="0.3"
+                android:gravity="center_horizontal"
+                android:text="Productivity\n%"
+                android:textColor="@color/Blue"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/lvProductivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/tvEmptyList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text=""
+        android:textColor="@color/Orange"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+</LinearLayout>

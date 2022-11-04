@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+    <TextView
+        android:id="@+id/lbproduct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="6"
+        android:maxEms="7"
+        android:minEms="7"
+        android:maxLines="1"
+        android:padding="5dp"
+        android:text="product"
+        android:textColor="@color/Black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/lbmrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:maxEms="2"
+        android:maxLines="1"
+        android:padding="5dp"
+        android:text="Mrp"
+        android:textColor="@color/Black"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/lblqty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:maxEms="2"
+        android:maxLines="1"
+        android:padding="5dp"
+        android:text="Qty"
+        android:textColor="@color/Black"
+        android:textSize="11sp" />
+
+</LinearLayout>

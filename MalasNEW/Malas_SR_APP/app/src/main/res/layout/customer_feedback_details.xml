@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_product_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Product Name"
+        android:textAllCaps="true"
+        android:textColor="@color/Blue"
+        android:textSize="15sp"
+
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.26"
+            android:padding="5dp"
+            android:text="Qty"
+            android:textAllCaps="true"
+            android:textColor="@color/Black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_qty_rating"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.13"
+            android:padding="5dp"
+
+            android:textColor="@color/Black"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+
+            android:layout_height="wrap_content"
+            android:layout_weight="0.61"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <RatingBar
+                android:id="@+id/rb_qty"
+                style="@style/MyRatingBar"
+                android:theme="@style/AppThemeRatingBar"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:max="5"
+                android:numStars="5"
+
+                android:stepSize="0.1" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.26"
+            android:padding="5dp"
+            android:text="Taste"
+            android:textAllCaps="true"
+            android:textColor="@color/Black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_taste"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.13"
+            android:padding="5dp"
+
+            android:textColor="@color/Black"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.61"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <RatingBar
+                android:id="@+id/rb_taste"
+                style="@style/MyRatingBar"
+                android:theme="@style/AppThemeRatingBar"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:max="5"
+                android:numStars="5"
+
+                android:stepSize="0.1" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.26"
+            android:padding="5dp"
+            android:text="Packaging"
+            android:textAllCaps="true"
+            android:textColor="@color/Black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_packaging"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.13"
+            android:padding="5dp"
+
+            android:textColor="@color/Black"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.61"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <RatingBar
+                android:id="@+id/rb_packaging"
+                android:theme="@style/AppThemeRatingBar"
+
+                style="@style/MyRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:max="5"
+                android:numStars="5"
+
+                android:stepSize="0.1" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

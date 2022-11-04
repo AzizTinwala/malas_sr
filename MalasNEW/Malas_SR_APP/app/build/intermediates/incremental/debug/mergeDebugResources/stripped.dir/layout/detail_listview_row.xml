@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="@color/LightGrey"
+    app:cardCornerRadius="4dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/ll_outlet_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:background="@color/White"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_outlet_ac"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Blue"
+            android:padding="7dp"
+            android:textAllCaps="true"
+            android:textColor="@color/White"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:id="@+id/ll_qty"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.26"
+                android:padding="5dp"
+                android:text="Qty"
+                android:textAllCaps="true"
+                android:textColor="@color/Black"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_avg_qty_rating"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="0.13"
+                android:padding="5dp"
+
+                android:textColor="@color/Black"
+                android:textSize="13sp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.61"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <RatingBar
+                    android:id="@+id/rb_avg_qty"
+                    style="@style/MyRatingBar"
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:max="5"
+                    android:numStars="5"
+                    android:stepSize="0.1"
+
+                    android:theme="@style/AppThemeRatingBar" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_taste"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.26"
+                android:padding="5dp"
+                android:text="Taste"
+                android:textAllCaps="true"
+                android:textColor="@color/Black"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_avg_taste"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="0.13"
+                android:padding="5dp"
+
+                android:textColor="@color/Black"
+                android:textSize="13sp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.61"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <RatingBar
+                    android:id="@+id/rb_avg_taste"
+                    style="@style/MyRatingBar"
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:max="5"
+                    android:numStars="5"
+                    android:stepSize="0.1"
+
+                    android:theme="@style/AppThemeRatingBar" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_pacakging"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.26"
+                android:padding="5dp"
+                android:text="Packaging"
+                android:textAllCaps="true"
+                android:textColor="@color/Black"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_avg_packaging"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="0.13"
+                android:padding="5dp"
+
+                android:textColor="@color/Black"
+                android:textSize="13sp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.61"
+                android:orientation="horizontal"
+                android:padding="5dp">
+
+                <RatingBar
+                    android:id="@+id/rb_avg_packaging"
+                    style="@style/MyRatingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:max="5"
+                    android:numStars="5"
+                    android:stepSize="0.1"
+
+                    android:theme="@style/AppThemeRatingBar" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

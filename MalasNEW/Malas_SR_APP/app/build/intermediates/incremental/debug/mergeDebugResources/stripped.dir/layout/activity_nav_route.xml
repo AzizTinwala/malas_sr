@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.malas.appsr.malasapp.activities.AddRouteActivity">
+
+    <RelativeLayout
+        android:id="@+id/rl1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_bg_01"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tvDistributorName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:ellipsize="end"
+            android:maxLength="40"
+            android:maxLines="1"
+            android:text="Distributer name"
+            android:textColor="@color/White" />
+
+    </RelativeLayout>
+
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="left"-->
+    <!--android:text="Distributer Name"-->
+    <!--android:textColor="@color/Black"-->
+    <!--android:textSize="14dp" />-->
+
+    <!--<RelativeLayout-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--&gt;-->
+
+    <!--&lt;!&ndash;<Spinner&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/spinner_distributor"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_marginBottom="10dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_marginTop="6dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:background="@drawable/drop_down"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:dropDownWidth="wrap_content"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:paddingLeft="5dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:spinnerMode="dropdown" />&ndash;&gt;-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tvDistributorName"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:text=""/>-->
+
+    <!--</RelativeLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="left"
+            android:text="Route Name"
+            android:textColor="@color/Black"
+            android:textSize="14dp" />
+
+        <EditText
+            android:id="@+id/edt_route"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:background="@drawable/edit_text_bg"
+            android:maxLength="100" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btn_save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/ic_baseline_save_24"
+                android:padding="10dp"
+                android:text="  Save"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@color/White"
+                android:textSize="18dp" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

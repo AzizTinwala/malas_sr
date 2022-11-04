@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/tvDatelist"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.1"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:layout_margin="10dp"
+        android:textColor="@color/Black"/>
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/Gray" />
+
+    <TextView
+        android:id="@+id/tvTotalOutletVisitlist"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/Black"/>
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/Gray" />
+
+    <TextView
+        android:textColor="@color/Black"
+        android:id="@+id/tvTotalOuletProductivelist"
+        android:layout_width="0dp"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:gravity="center_horizontal" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/Gray" />
+
+    <TextView
+        android:id="@+id/tvProductivitylist"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.3"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/Black"/>
+
+</LinearLayout>

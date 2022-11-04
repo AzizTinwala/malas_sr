@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Malas</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="cat_name">CATEGORY \n NAME</string>
+    <string name="product_name"> PRODUCT \n NAME</string>
+    <string name="review"><u>Review</u></string>
+    <string name="confirm">CONFIRM</string>
+    <string name="confrimvalue">Field Work Confirmation</string>
+
+    <string name="select_territory">Select Territory</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="you_are_in_territory">You are in Territory</string>
+    <string name="proceed">PROCEED</string>
+    <string name="logout">LOGOUT</string>
+    <string name="distributor_stock_reminder">Distributor Stock Reminder !!!</string>
+    <string name="add_route">Add Route</string>
+    <string name="add_outlet">Add Outlet</string>
+    <string name="take_stock">Take Distributor Stock</string>
+    <string name="take_order">Outlet Order</string>
+    <string name="distributor_order">Distributor Order</string>
+    <string name="day_end">Day End</string>
+    <string name="leave_management">Leave Management</string>
+    <string name="expense_management">Expense Management</string>
+    <string name="catalogue">Catalogue</string>
+    <string name="about_us">About us</string>
+    <string name="tour_plan">Tour Plan</string>
+    <string name="profile">Profile</string>
+    <string name="reports">Reports</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="activity">Activity</string>
+    <string name="total_comp_off_days">Comp-Off Days</string>
+    <string name="leave_reason">Reason</string>
+    <string name="comp_off_balance">Comp-Off Balance </string>
+    <string name="lwp">LWP </string>
+    <string name="start_date1">Start Date </string>
+    <string name="earn_comp_off_status">EARN COMP_OFF STATUS</string>
+    <string name="leave_revert_status">LEAVE REVERT STATUS</string>
+    <string name="leave_request_status">LEAVE REQUEST STATUS</string>
+    <string name="status_of_request">STATUS OF REQUEST</string>
+    <string name="total_leaves_ndays">Leave Days</string>
+    <string name="leave_request">LEAVE REQUEST</string>
+    <string name="end_date">End Date</string>
+    <string name="dd_mm_yyyy">dd-MM-yyyy</string>
+    <string name="leave_balance">Leave Balance</string>
+    <string name="comp_off_reason">Reason:</string>
+    <string name="status">Status:</string>
+    <string name="reason_if_rejected">Rejected\nReason:</string>
+    <string name="days">Days:</string>
+    <string name="type">Type:</string>
+    <string name="apply_date">Apply\nDate:</string>
+    <string name="earn_comp_off_request">EARN COMP-OFF REQUEST</string>
+    <string name="request_id">Request Id:</string>
+    <string name="validity">Validity:</string>
+    <string name="enter_here">Enter Here....</string>
+    <string name="revert_request">REVERT REQUEST</string>
+    <string name="revert"><u>Revert</u></string>
+    <string name="close"><u>Close</u></string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="forgot_password"><u>Forgot password ?</u></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="person_name">Name</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="city">City</string>
+    <string name="address">Address</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_of_joining">Date of Joining</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="enter_your_email_id">Enter your Email id</string>
+    <string name="achievement">Achieve-\nment</string>
+    <string name="target">Target -</string>
+    <string name="total_productivity">Total Productivity</string>
+    <string name="top_view">TOP VIEW</string>
+    <string name="mala_s_fruit_products">Mala\'s Food Products Pvt. Ltd.</string>
+    <string name="web">Web:-</string>
+    <string name="www_malasfruit_com">www.malasfruit.com</string>
+    <string name="_91_9767175237_918390778653">+91–8149525824, +91–7219813082</string>
+    <string name="helpline">Helpline:</string>
+    <string name="_91_2168_240672">+91–2168240672</string>
+    <string name="fax">Fax :-</string>
+    <string name="address5">Address:-</string>
+    <string name="tel">Tel:-</string>
+    <string name="_91_7798505152">+91–7798505152</string>
+    <string name="email">Email:-</string>
+    <string name="it_malasfruit_com">feedback@malasfruit.com</string>
+    <string name="bhose_p_o_box_73_panchgani_412805_maharashtra_india">Bhose, P.O.Box 73, Panchgani - 412805, Maharashtra, India</string>
+    <string name="company_info">Company Info</string>
+    <string name="company_contact_details">Company Contact Details</string>
+    <string name="abc"> \t\t\t In 1958, a 20-year-old entrepreneur named Taiyab Mala started making 6 bottles of jams a day to run a side income to support the family, But what started as a 6 bottles a day endeavor, slowly and steadily expanded into a more established business. Today the Company exhibits over 800 tones of jam production alone! Indeed we are on a fruitful journey committed with sincerity towards quality.
+    \n\n\t\t\t When British left India, they also left behind their mark on our nation. They influenced a number of habits including those of food. One of the many food cultures they impressed is that of today\'s most popular breakfast accompaniment-The Jam. Convincing a highly traditional \“Old is Gold\” believer nation of such high magnitude; that fruits can be consumed in such a manner was a magnanimous task in itself.
+        \nWay back in the fifties, the idea of flavorizing fruits in such a viscous form was not only alien to our people but also a bit abstruse. However the vision to make the jam a household name made Mr. Taiyab Mala acquired the basic technical skills and knowledge of jam making from various institutes in later years, Mr. Mala made his home the production base for expansion of his vision and this was the birth of India\'s most sought after fruit-based goodie manufacturing company, MALA\'S.
+   \n\n\t\t\t Mala\'s has been consistent in serving for the betterment of the society along with providing the right quality product to its customers. We are a value driven company that focuses on teamwork, communication, accountability, quality and passion. Because of undying affection, support, love and security of their personnel\'s the company has grown gradually since 1950\'s. The company is a boon to the localities for them it has been their bread, butter and Jam!
+    \n\n\t\t\t\t Mala\'s we promise to leave your varied taste-buds as gratified as our fruitful journey in building the country\'s most sought after processed fruits company. We are also committed in bringing you fruits in a manifestation closest to the Quality that Nature\'s intended.
+    \n \n\t\t\t At Mala\'s it\'s not about Competition it\'s about consistency and being unique. We are growing and evolving ourselves striving to achieve newer heights and bench marking our own achievements.</string>
+    <string name="holiday_calendar">Holiday Calendar</string>
+    <string name="refresh_location">Refresh Location</string>
+    <string name="choose_app_to_upload_image">Choose App to Upload Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="data_connection_error">Data Connection Error</string>
+    <string name="category_list">Category List</string>
+    <string name="salary_slip">Salary Slip</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="designation">Designation</string>
+    <string name="dol">Date Of Leaving</string>
+    <string name="manager">Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

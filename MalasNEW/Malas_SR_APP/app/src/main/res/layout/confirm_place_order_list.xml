@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:padding="7dp"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/tvProductName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="@color/Black"
+         />
+
+   <!-- <TextView
+        android:id="@+id/tvSOH"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_weight="0.33"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="@color/Blue"
+        android:textStyle="bold" />-->
+
+    <TextView
+        android:id="@+id/SOQ"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:layout_gravity="center"
+        android:textColor="@color/Black"
+     />
+
+
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/tool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:padding="6dp"
+       >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+
+            android:text="SYNC ATTENDANCE"
+            android:textAllCaps="true"
+            android:padding="5dp"
+            android:textColor="@color/White"
+            android:textSize="14sp" />
+
+</LinearLayout>
+
+
+    <ListView
+
+        android:id="@+id/attendance_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        />
+    <LinearLayout
+        android:id="@+id/btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        android:orientation="horizontal"
+        android:padding="6dp"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="0.5"
+            android:background="@color/colorPrimary"
+            android:text="SUBMIT"
+            android:id="@+id/sync_submit"
+            android:textAllCaps="true"
+            android:textColor="@color/White"
+            android:textSize="14sp" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="0.5"
+            android:text="CANCEL"
+            android:background="@color/colorPrimary"
+            android:id="@+id/sync_cancel"
+            android:textAllCaps="true"
+            android:textColor="@color/White"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

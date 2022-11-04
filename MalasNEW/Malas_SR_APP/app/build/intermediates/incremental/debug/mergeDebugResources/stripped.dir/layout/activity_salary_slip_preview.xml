@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:backgroundTint="@android:color/transparent"
+        android:gravity="center"
+        android:padding="1dp"
+        android:layout_margin="1dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/salary_month_list"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:hint="Select Month"
+            android:background="@drawable/rounded_corner"
+            android:completionThreshold="1"
+            android:inputType="none"
+            android:drawableEnd="@drawable/ic_baseline_arrow_drop_down_24"
+            android:padding="6dp"
+            android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24" />
+
+
+        <Button
+            android:id="@+id/salary_slip_download"
+            android:layout_margin="1dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.2"
+            android:drawableStart="@drawable/ic_baseline_cloud_download_24"
+            android:text="Download"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/holo_green_dark"
+            android:drawableLeft="@drawable/ic_baseline_cloud_download_24" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/salary_slip_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <WebView
+            android:id="@+id/salary_slip_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ProgressBar
+            android:id="@+id/salary_slip_progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/salary_slip_notification"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="Salary slip for previous month will be visible once it is generated  by HR Dept. between 10th-15th of every month."
+        android:textColor="@color/colorPrimary"
+        android:textSize="18sp" />
+</LinearLayout>

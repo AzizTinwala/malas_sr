@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Malas_SR_APP.iml" filepath="$PROJECT_DIR$/Malas_SR_APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.iml" filepath="$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AmitLibs/Malas_SR_APP.AmitLibs.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ExpenseUtility/Malas_SR_APP.ExpenseUtility.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/RobotoCalenderView/Malas_SR_APP.RobotoCalenderView.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Malas_SR_APP.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Blue"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/lblListHeader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="test"
+            android:textColor="@color/White"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:orientation="horizontal"
+        android:id="@+id/llHeader"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/lbproduct"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.45"
+            android:maxEms="7"
+            android:minEms="7"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="product name"
+            android:textColor="@color/Black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/lbmrp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:maxEms="2"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="Mrp"
+            android:textColor="@color/Black"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/lblqty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:maxEms="2"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="SOH"
+            android:textColor="@color/Black"
+            android:textSize="11sp" />
+        <TextView
+            android:id="@+id/soq"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:maxEms="2"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="SOQ"
+            android:textColor="@color/Black"
+            android:textSize="11sp" />
+
+    </LinearLayout>
+</LinearLayout>

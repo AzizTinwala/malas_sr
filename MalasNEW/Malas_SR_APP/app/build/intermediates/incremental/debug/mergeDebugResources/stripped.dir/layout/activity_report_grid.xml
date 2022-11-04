@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/rl1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/top_bg_01"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/reports"
+                android:textColor="@color/White"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+        </RelativeLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_topview_report"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_topview"
+                    android:layout_width="130dp"
+                    android:layout_height="110dp"
+                    android:layout_gravity="center"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/sales_report_icon" />
+
+                <TextView
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="@string/top_view"
+                    android:textColor="#08155C"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_average_bill_value"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_average_bill"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:src="@drawable/icon_abc" />
+
+                <!-- <TextView
+                     android:id="@+id/tv_avera_bill"
+                     android:layout_width="match_parent"
+                     android:layout_height="50dp"
+                     android:layout_gravity="center"
+                     android:background="#1D63A1"
+                     android:gravity="center"
+                     android:padding="7dp"
+                     android:text="Average Bill Value"
+                     android:textColor="#FFFFFF"
+                     android:textSize="18dp" />-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_avg_line_cut"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_avg_line_cut"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:src="@drawable/icon_alc" />
+
+                <!--             <TextView
+                                 android:id="@+id/tv_avg_line_cut"
+                                 android:layout_width="match_parent"
+                                 android:layout_height="50dp"
+                                 android:layout_gravity="center"
+                                 android:background="#1D63A1"
+                                 android:gravity="center"
+                                 android:padding="7dp"
+                                 android:text="Average Line Cut"
+                                 android:textColor="#FFFFFF"
+                                 android:textSize="18dp" />-->
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_target"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_target"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:src="@drawable/icon_target" />
+
+                <!--  <TextView
+                      android:id="@+id/tv_target"
+                      android:layout_width="match_parent"
+                      android:layout_height="50dp"
+                      android:layout_gravity="center"
+                      android:background="#1D63A1"
+                      android:gravity="center"
+                      android:padding="7dp"
+                      android:text="Target Report"
+                      android:textColor="#FFFFFF"
+                      android:textSize="18dp" />-->
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_unique_bill_value"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_unique_bill_value"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:src="@drawable/icon_ubo" />
+
+                <!-- <TextView
+                     android:id="@+id/tv_unique_bill_value"
+                     android:layout_width="match_parent"
+                     android:layout_height="50dp"
+                     android:layout_gravity="center"
+                     android:background="#1D63A1"
+                     android:gravity="center"
+                     android:padding="7dp"
+                     android:text="Unique Bill Value"
+                     android:textColor="#FFFFFF"
+                     android:textSize="18dp" />-->
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ll_productivity_report"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_productivity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/icon_productivity" />
+
+                <!--    <TextView
+                        android:id="@+id/tv_productivity"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:background="#1D63A1"
+                        android:gravity="center"
+                        android:padding="7dp"
+                        android:text="Productivity"
+                        android:textColor="#FFFFFF"
+                        android:textSize="18dp" />-->
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

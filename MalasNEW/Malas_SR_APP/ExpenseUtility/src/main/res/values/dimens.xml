@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="expense_utility_padding">8dp</dimen>
+    <dimen name="expense_utility_month_margin_bottom">8dp</dimen>
+    <dimen name="expense_utility_week_margin_bottom">5dp</dimen>
+    <dimen name="expense_utility_day_of_the_month_background_size">40dp</dimen>
+    <dimen name="expense_utility_circle_size">6dp</dimen>
+    <dimen name="expense_utility_ring_size">18dp</dimen>
+    <dimen name="expense_utility_month_font">16sp</dimen>
+    <dimen name="expense_utility_day_of_week_font">16sp</dimen>
+    <dimen name="expense_utility_day_of_the_month_font">16sp</dimen>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:layout_weight="1">
+
+    <RelativeLayout
+        android:id="@+id/expense_background"
+        android:layout_width="@dimen/expense_utility_day_of_the_month_background_size"
+        android:layout_height="@dimen/expense_utility_day_of_the_month_background_size"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/circle">
+
+        <TextView
+            android:id="@+id/expense_date_no"
+            style="@style/RobotoCalendarDayOfTheMonthText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            tools:text="1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expense_date_no"
+            android:layout_centerHorizontal="true"
+            android:divider="@drawable/empty_divider"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:showDividers="middle">
+
+            <ImageView
+                android:id="@+id/dayOfTheMonthCircleImage1"
+                android:layout_width="@dimen/expense_utility_circle_size"
+                android:layout_height="@dimen/expense_utility_circle_size"
+                android:src="@drawable/circle"
+                android:visibility="visible"
+                app:tint="@color/expense_utility_circle_1" />
+
+            <ImageView
+                android:id="@+id/dayOfTheMonthCircleImage2"
+                android:layout_width="@dimen/expense_utility_circle_size"
+                android:layout_height="@dimen/expense_utility_circle_size"
+                android:src="@drawable/circle"
+                android:visibility="visible"
+                app:tint="@color/expense_utility_circle_2" />
+
+            <ImageView
+                android:id="@+id/dayOfTheMonthCircleImage3"
+                android:layout_width="@dimen/expense_utility_circle_size"
+                android:layout_height="@dimen/expense_utility_circle_size"
+                android:src="@drawable/circle"
+                android:visibility="visible"
+                app:tint="@color/expense_utility_circle_3" />
+
+            <ImageView
+                android:id="@+id/dayOfTheMonthCircleImage4"
+                android:layout_width="@dimen/expense_utility_circle_size"
+                android:layout_height="@dimen/expense_utility_circle_size"
+                android:src="@drawable/circle"
+                android:visibility="visible"
+                app:tint="@color/expense_utility_circle_4" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

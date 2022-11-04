@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.malas.appsr.malasapp.activities.CatagoryHandlerActivity">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/category_list"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:paddingRight="130dp"
+        android:paddingLeft="130dp"
+        android:drawableLeft="@drawable/submit_btn_icon"
+        android:textColorHint="@color/White"
+        android:background="@drawable/cancel_btn_selector"
+        android:id="@+id/bt_category_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:hint="Done"
+        android:drawableStart="@drawable/submit_btn_icon" />
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bt_category_submit"
+        android:layout_below="@id/tv1" />
+
+</RelativeLayout>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+    <LinearLayout
+        android:id="@+id/ll_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:padding="7dp"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/tvProductName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_horizontal"
+            android:text="Product Name"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+        <!-- <TextView
+             android:id="@+id/tvSOH"
+             android:layout_width="0dp"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:layout_marginRight="5dp"
+             android:layout_weight="0.33"
+             android:gravity="center_horizontal"
+             android:text="SOH"
+             android:textColor="@color/Blue"
+             android:textStyle="bold" />
+ -->
+        <TextView
+            android:id="@+id/SOQ"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:gravity="center_horizontal"
+            android:text="SOQ"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/ll_confirm"
+        android:background="@color/Gray" />
+
+    <LinearLayout
+        android:id="@+id/ll_total_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/view_confirm"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_horizontal"
+            android:text="Total"
+            android:textColor="@color/Blue"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_text_total"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:gravity="center_horizontal"
+            android:text=""
+            android:textColor="@color/Black"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_confirm1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/ll_total_confirm"
+        android:background="@color/Gray" />
+
+    <ListView
+        android:id="@+id/lv_place_order_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/lll_reason"
+        android:layout_below="@+id/view_confirm1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/lll_reason"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        android:weightSum="1">
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="0.5"
+            android:background="#0150ff"
+            android:text="cancel"
+            android:textColor="@color/White"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_confirm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="0.5"
+            android:background="#0150ff"
+            android:text="CONFIRM"
+            android:textColor="@color/White"
+            android:textSize="16sp" />
+    </LinearLayout>
+</RelativeLayout>

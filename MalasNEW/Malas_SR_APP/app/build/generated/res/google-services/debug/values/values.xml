@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">782423204054-in8mke76kjjhc50f71mb6lm50ablv5sk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://malasnewapp.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">782423204054</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLJ8dnbZnBfLhH-hPFahzZJ6Lnk71_WsU</string>
+    <string name="google_app_id" translatable="false">1:782423204054:android:623cd4df5776c9c401e977</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLJ8dnbZnBfLhH-hPFahzZJ6Lnk71_WsU</string>
+    <string name="google_storage_bucket" translatable="false">malasnewapp.appspot.com</string>
+    <string name="project_id" translatable="false">malasnewapp</string>
+</resources>

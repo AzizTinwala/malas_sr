@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:layout_marginBottom="10dp"
+>
+
+    <TextView
+        android:id="@+id/tv_forget_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:text="@string/forget_password"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:textColor="@color/White"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/edt_forgot_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+android:layout_margin="10dp"
+        android:layout_below="@+id/tv_forget_password"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_text_bg"
+        android:hint="@string/enter_your_email_id"
+        android:padding="10dp"
+
+        />
+
+
+
+    <Button
+        android:id="@+id/btn_submit_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/edt_forgot_password"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/submit_button_selector"
+        android:drawableLeft="@drawable/submit_btn_icon"
+        android:hint="@string/submit"
+        android:paddingLeft="20dp"
+        android:textColorHint="@color/White"
+        android:drawableStart="@drawable/submit_btn_icon"
+        android:paddingStart="20dp" />
+
+
+</RelativeLayout>

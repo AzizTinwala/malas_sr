@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782423204054",
+    "firebase_url": "https://malasnewapp.firebaseio.com",
+    "project_id": "malasnewapp",
+    "storage_bucket": "malasnewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782423204054:android:623cd4df5776c9c401e977",
+        "android_client_info": {
+          "package_name": "com.malas.appsr.malasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782423204054-ukpnh0a2euph57750tkncnd6tv7m921b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malas.appsr.malasapp",
+            "certificate_hash": "d2b0a40510c0d5845a8e9fa4107fd9cdd6b4f7d3"
+          }
+        },
+        {
+          "client_id": "782423204054-in8mke76kjjhc50f71mb6lm50ablv5sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJ8dnbZnBfLhH-hPFahzZJ6Lnk71_WsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782423204054-in8mke76kjjhc50f71mb6lm50ablv5sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

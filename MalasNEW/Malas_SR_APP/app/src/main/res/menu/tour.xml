@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_tour_plan"
+        android:icon="@drawable/ic_baseline_directions_bus_24"
+        android:title="Tour Plan" />
+
+    <item
+        android:id="@+id/menu_tour_history"
+        android:icon="@drawable/ic_baseline_bus_alert_24"
+        android:title="History" />
+
+</menu>

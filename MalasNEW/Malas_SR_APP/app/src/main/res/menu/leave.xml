@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_leave_request"
+        android:icon="@drawable/baseline_access_time_deep_purple_a700_24dp"
+        android:title="APPLY LEAVE" />
+
+    <item
+        android:id="@+id/menu_compoff_request"
+        android:icon="@drawable/baseline_av_timer_blue_700_24dp"
+        android:title="EARN COMPOFF" />
+
+    <item
+        android:id="@+id/menu_revert_leave_request"
+        android:icon="@drawable/baseline_history_black_24dp"
+        android:title="REVERT LEAVE" />
+
+    <item
+        android:id="@+id/menu_status_of_request"
+        android:icon="@drawable/baseline_list_deep_purple_a700_24dp"
+        android:title="STATUS"
+        />
+</menu>
