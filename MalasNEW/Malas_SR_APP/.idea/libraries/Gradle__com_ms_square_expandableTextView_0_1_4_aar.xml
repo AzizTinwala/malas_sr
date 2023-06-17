@@ -5,8 +5,8 @@
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/99a9dcc8579f9f8b8980ecd015211d0d/transformed/jetified-expandableTextView-0.1.4/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/99a9dcc8579f9f8b8980ecd015211d0d/transformed/jetified-expandableTextView-0.1.4/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/99a9dcc8579f9f8b8980ecd015211d0d/transformed/jetified-expandableTextView-0.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/99a9dcc8579f9f8b8980ecd015211d0d/transformed/jetified-expandableTextView-0.1.4/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ms-square/expandableTextView/0.1.4/5c5dc009a45fbd783411e5a25519b66235c73432/expandableTextView-0.1.4-javadoc.jar!/" />

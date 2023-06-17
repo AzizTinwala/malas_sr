@@ -7,6 +7,7 @@ import android.content.Context
 import android.graphics.Bitmap
 import android.net.Uri
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.webkit.WebView
@@ -17,6 +18,8 @@ import com.malas.appsr.malasapp.BeanClasses.salaryslipmonth
 import com.malas.appsr.malasapp.R
 import com.malas.appsr.malasapp.serverconnection.BackgroundWork
 import org.json.JSONObject
+import java.text.SimpleDateFormat
+import java.util.*
 
 class SalarySlipPreview : AppCompatActivity() {
     var webview: WebView? = null
@@ -64,8 +67,38 @@ class SalarySlipPreview : AppCompatActivity() {
             webview!!.clearCache(true)
             webview!!.clearView()
             webview!!.loadUrl("javascript:document.open();document.close();")
-            url = "https://malasportal.in/HR/dompdf/index.php?id=" + salMonth!![i].id
-            //   progress!!.visibility = View.VISIBLE
+            val url_old = "https://malasportal.in/HR/dompdf/index.php?id= ${salMonth!![i].id}"
+            val url_new =
+                "https://erp.malasportal.in/HR/dompdf/new_salary_slip.php?id=${salMonth!![i].id}"
+
+            val dateFormat = SimpleDateFormat("dd-MMM-yy", Locale.US)
+            Log.e(
+                "Salary Slip", "onCreate: ${
+                    dateFormat.parse(
+                        "01-${salMonth!![i].month!!.substring(0, 3)}-20${
+                            salMonth!![i].month!!.substring(
+                                (salMonth!![i].month!!.length - 2),
+                                salMonth!![i].month!!.length
+                            )
+                        }"
+                    )
+                }"
+            )
+            url =
+                if (dateFormat.parse(
+                        "01-${salMonth!![i].month!!.substring(0, 3)}-20${
+                            salMonth!![i].month!!.substring(
+                                (salMonth!![i].month!!.length - 2),
+                                salMonth!![i].month!!.length
+                            )
+                        }"
+                    )!!
+                    > dateFormat.parse("31-Mar-2023")
+                ) {
+                    url_new
+                } else {
+                    url_old
+                }  //   progress!!.visibility = View.VISIBLE
             loadSalarySlip()
 
         }
