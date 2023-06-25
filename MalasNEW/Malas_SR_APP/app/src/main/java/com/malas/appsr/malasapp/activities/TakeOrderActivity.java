@@ -88,7 +88,7 @@ public class TakeOrderActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_take_order);
 
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Outlet Order List");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("Outlet List");
         TextView tvTerritoryName = findViewById(R.id.tv_territory_outlet);
         spnDistributor = findViewById(R.id.spnr_distributr);
         spnRoute = findViewById(R.id.spnr_route);

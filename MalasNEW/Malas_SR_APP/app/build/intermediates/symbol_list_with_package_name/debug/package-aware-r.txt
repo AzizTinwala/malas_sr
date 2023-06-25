@@ -3476,8 +3476,6 @@ id mtrl_view_tag_bottom_padding
 id multiply
 id name
 id nav_aboutus
-id nav_activity
-id nav_broadcast
 id nav_catalogue
 id nav_controller_view_tag
 id nav_daily_report
@@ -3511,6 +3509,7 @@ id neverCompleteToEnd
 id neverCompleteToStart
 id noScroll
 id noState
+id no_holiday
 id none
 id normal
 id north

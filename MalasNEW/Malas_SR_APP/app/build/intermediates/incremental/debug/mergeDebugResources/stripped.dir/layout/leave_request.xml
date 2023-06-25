@@ -148,7 +148,7 @@
                     android:paddingTop="10dp"
                     android:paddingBottom="10dp"
                     android:text="@string/leave_balance"
-                    android:textColor="#028074"
+                    android:textColor="@color/Black"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 
@@ -176,7 +176,7 @@
                     android:paddingTop="10dp"
                     android:paddingBottom="10dp"
                     android:text="@string/comp_off_balance"
-                    android:textColor="#028074"
+                    android:textColor="@color/Black"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 

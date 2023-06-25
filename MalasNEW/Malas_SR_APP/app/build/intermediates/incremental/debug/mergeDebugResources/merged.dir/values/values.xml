@@ -1698,7 +1698,7 @@
   </plurals>
     <string name="_91_2168_240672">+91–2168240672</string>
     <string name="_91_7798505152">+91–7798505152</string>
-    <string name="_91_9767175237_918390778653">+91–8149525824, +91–7219813082</string>
+    <string name="_91_9767175237_918390778653">+91–9271053003, +91–9271053002</string>
     <string name="abc"> \t\t\t In 1958, a 20-year-old entrepreneur named Taiyab Mala started making 6 bottles of jams a day to run a side income to support the family, But what started as a 6 bottles a day endeavor, slowly and steadily expanded into a more established business. Today the Company exhibits over 800 tones of jam production alone! Indeed we are on a fruitful journey committed with sincerity towards quality.
     \n\n\t\t\t When British left India, they also left behind their mark on our nation. They influenced a number of habits including those of food. One of the many food cultures they impressed is that of today\'s most popular breakfast accompaniment-The Jam. Convincing a highly traditional \“Old is Gold\” believer nation of such high magnitude; that fruits can be consumed in such a manner was a magnanimous task in itself.
         \nWay back in the fifties, the idea of flavorizing fruits in such a viscous form was not only alien to our people but also a bit abstruse. However the vision to make the jam a household name made Mr. Taiyab Mala acquired the basic technical skills and knowledge of jam making from various institutes in later years, Mr. Mala made his home the production base for expansion of his vision and this was the birth of India\'s most sought after fruit-based goodie manufacturing company, MALA\'S.
@@ -1799,7 +1799,7 @@
     <string name="distributor_stock_reminder">Distributor Stock Reminder !!!</string>
     <string name="district">District</string>
     <string name="dol">Date Of Leaving</string>
-    <string name="earn_comp_off_request">EARN COMP-OFF REQUEST</string>
+    <string name="earn_comp_off_request">EARN COMP-OFF</string>
     <string name="earn_comp_off_status">EARN COMP_OFF STATUS</string>
     <string name="email">Email:-</string>
     <string name="email_id">Email Id</string>
@@ -1807,7 +1807,7 @@
     <string name="enter_here">Enter Here....</string>
     <string name="enter_your_email_id">Enter your Email id</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="expense_management">Expense Management</string>
+    <string name="expense_management">Expense</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
@@ -1830,16 +1830,16 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="helpline">Helpline:</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="holiday_calendar">Holiday Calendar</string>
+    <string name="holiday_calendar">Holiday/Attendance Calendar</string>
     <string name="http_status_200">OK</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
     <string name="it_malasfruit_com">feedback@malasfruit.com</string>
     <string name="item_view_role_description">Tab</string>
     <string name="label">Label</string>
     <string name="leave_balance">Leave Balance</string>
-    <string name="leave_management">Leave Management</string>
+    <string name="leave_management">Leave &amp; Comp-Off</string>
     <string name="leave_reason">Reason</string>
-    <string name="leave_request">LEAVE REQUEST</string>
+    <string name="leave_request">Apply Leave</string>
     <string name="leave_request_status">LEAVE REQUEST STATUS</string>
     <string name="leave_revert_status">LEAVE REVERT STATUS</string>
     <string name="logout">LOGOUT</string>
@@ -1939,7 +1939,7 @@
     <string name="reports">Reports</string>
     <string name="request_id">Request Id:</string>
     <string name="revert"><u>Revert</u></string>
-    <string name="revert_request">REVERT REQUEST</string>
+    <string name="revert_request">REVERT LEAVE</string>
     <string name="review"><u>Review</u></string>
     <string name="salary_slip">Salary Slip</string>
     <string name="search_menu_title">Search</string>

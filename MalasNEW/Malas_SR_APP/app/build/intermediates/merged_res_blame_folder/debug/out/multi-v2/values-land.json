@@ -4,7 +4,7 @@
             "outputFile": "com.malas.appsr.malasapp-mergeDebugResources-62:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ajiz\\AndroidStudioProjects\\MalasNEW\\Malas_SR_APP\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "source": "C:\\Users\\Ajiz\\StudioProjects\\malas_sr\\MalasNEW\\Malas_SR_APP\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "8",

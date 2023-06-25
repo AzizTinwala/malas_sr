@@ -4,7 +4,7 @@
             "outputFile": "com.malas.appsr.malasapp-mergeDebugResources-62:/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ajiz\\AndroidStudioProjects\\MalasNEW\\Malas_SR_APP\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\Ajiz\\StudioProjects\\malas_sr\\MalasNEW\\Malas_SR_APP\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

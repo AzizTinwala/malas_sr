@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
 MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\Ajiz\.gradle\caches\transforms-3\76178b5b6b87e46de0afef780bd9ec88\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-22:12
-MERGED from [:RobotoCalenderView] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\RobotoCalenderView\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:ExpenseUtility] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\ExpenseUtility\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:RobotoCalenderView] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\RobotoCalenderView\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:ExpenseUtility] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\ExpenseUtility\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\Ajiz\.gradle\caches\transforms-3\190d8c8dd157439acbadbb742451251a\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\Ajiz\.gradle\caches\transforms-3\4efa3a36902bdd0e0547857d24c60416\transformed\navigation-ui-2.5.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ajiz\.gradle\caches\transforms-3\60e0116d52526c79b85341bf0445f134\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
@@ -112,31 +112,31 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ajiz\.gradle\cac
 MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Ajiz\.gradle\caches\transforms-3\93f7ebc3e3b39c0ecddf79f4ba6341ad\transformed\jetified-calligraphy3-3.1.1\AndroidManifest.xml:2:1-13:12
 MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Ajiz\.gradle\caches\transforms-3\37c20a4fecb72f6061cf44ae17550d88\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\26f51464abb57a7b1bd18bcc6622c8c5\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
 	package
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:22-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:22-63
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:5-82
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:5-82
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e799a6bb331a26091d2717dd63b662b5\transformed\jetified-play-services-gcm-17.0.0\AndroidManifest.xml:23:5-82
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e799a6bb331a26091d2717dd63b662b5\transformed\jetified-play-services-gcm-17.0.0\AndroidManifest.xml:23:5-82
 MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:28:5-82
@@ -146,27 +146,27 @@ MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ajiz\.gra
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\b49a8de77bb1a95806960cc1fc006f24\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\b49a8de77bb1a95806960cc1fc006f24\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:22-79
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:22-79
 uses-permission#com.google.android.c2dm.permission.SEND
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:5-80
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-80
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-80
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-80
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:9:5-11:40
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-81
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-81
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:9:5-11:40
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-81
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-81
 	tools:ignore
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:11:9-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:11:9-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:10:9-65
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:10:9-65
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:5-68
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:5-68
 MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:26:5-68
 MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:26:5-68
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\b49a8de77bb1a95806960cc1fc006f24\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
@@ -180,11 +180,11 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.2.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\3cc509f0665724dc489c7ca553f10248\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\3cc509f0665724dc489c7ca553f10248\transformed\jetified-play-services-measurement-sdk-api-21.2.0\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:22-65
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:22-65
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:5-67
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-67
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-67
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-67
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e799a6bb331a26091d2717dd63b662b5\transformed\jetified-play-services-gcm-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e799a6bb331a26091d2717dd63b662b5\transformed\jetified-play-services-gcm-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e2a7fa5480bcfa7a4adc81da5af43a75\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
@@ -206,19 +206,19 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.2.0] C:
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:5-81
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:22-78
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:22-76
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:5-79
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-79
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-79
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-79
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\b49a8de77bb1a95806960cc1fc006f24\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
@@ -238,19 +238,19 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Us
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:5-76
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:22-73
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:22-73
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:5-65
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:5-65
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:22-62
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:22-62
 application
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:20:5-156:19
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-20:19
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-20:19
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:20:5-156:19
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-20:19
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-20:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ajiz\.gradle\caches\transforms-3\60e0116d52526c79b85341bf0445f134\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ajiz\.gradle\caches\transforms-3\60e0116d52526c79b85341bf0445f134\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Ajiz\.gradle\caches\transforms-3\1dd0de4364bb18bd3b86c4ff47c6bf47\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -336,368 +336,366 @@ MERGED from [io.github.inflationx:calligraphy3:3.1.1] C:\Users\Ajiz\.gradle\cach
 MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Ajiz\.gradle\caches\transforms-3\37c20a4fecb72f6061cf44ae17550d88\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:9:5-20
 MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Ajiz\.gradle\caches\transforms-3\37c20a4fecb72f6061cf44ae17550d88\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:9:5-20
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:24:9-52
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:24:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\Ajiz\.gradle\caches\transforms-3\5a6841ef78f2cd952a5091e3b9621d4e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:23:9-41
 	tools:ignore
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:28:9-48
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:28:9-48
 	tools:targetApi
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:30:9-28
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:30:9-28
 	android:icon
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:22:9-42
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:22:9-42
 	android:allowBackup
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:21:9-35
-		REJECTED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-36
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:21:9-35
+		REJECTED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-36
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:26:9-40
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:26:9-40
 	tools:replace
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:29:9-44
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:29:9-44
 	android:usesCleartextTraffic
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:27:9-44
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:27:9-44
 activity#com.malas.appsr.malasapp.activities.TourPlan
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:31:9-37:20
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:31:9-37:20
 	android:exported
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:32:13-48
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:32:13-48
 meta-data#android.app.lib_name
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:34:13-36:36
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:34:13-36:36
 	android:value
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:36:17-33
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:36:17-33
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:35:17-52
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:35:17-52
 activity#com.malas.appsr.malasapp.activities.ExitForm
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:38:9-40:40
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:38:9-40:40
 	android:exported
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:40:13-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:40:13-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:39:13-48
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:39:13-48
 activity#com.malas.appsr.malasapp.activities.BirthdayGreetings
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:19-63
 activity#com.malas.appsr.malasapp.activities.ConfirmOutletOrders
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:9-68
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:9-68
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:19-65
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:19-65
 activity#com.malas.appsr.malasapp.activities.ConfirmStocks
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:9-62
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:9-62
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:19-59
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:19-59
 activity#com.malas.appsr.malasapp.activities.ImageZoomPreview
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:9-65
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:9-65
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:19-62
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:19-62
 activity#com.malas.appsr.malasapp.activities.Catalogue
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:9-58
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:9-58
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:19-55
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:19-55
 activity#com.malas.appsr.malasapp.activities.salaryslip.SalarySlipPreview
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:9-77
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:9-77
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:19-74
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:19-74
 activity#com.malas.appsr.malasapp.temp.tempShowPlaceOrderNew
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:9-64
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:9-64
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:19-61
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:19-61
 activity#com.malas.appsr.malasapp.activities.ClockInOut
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:9-59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:9-59
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:19-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:19-56
 activity#com.malas.appsr.malasapp.activities.ExpenseManagement
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:19-63
 activity#com.malas.appsr.malasapp.activities.HolidayCalendar
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:9-64
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:9-64
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:19-61
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:19-61
 uses-library#org.apache.http.legacy
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:52:9-54:40
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:52:9-54:40
 	android:required
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:54:13-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:54:13-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:53:13-50
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:53:13-50
 activity#com.malas.appsr.malasapp.SplashActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:56:9-66:20
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:56:9-66:20
 	android:label
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:59:13-45
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:59:13-45
 	android:exported
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:58:13-36
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:58:13-36
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:60:13-69
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:60:13-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:57:13-43
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:57:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:61:13-65:29
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:61:13-65:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:17-69
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:17-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:25-66
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:17-77
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:17-77
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:27-74
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:27-74
 activity#com.malas.appsr.malasapp.activities.AddNewOutletActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:9-69
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:9-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:19-66
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:19-66
 activity#com.malas.appsr.malasapp.activities.RegistrationActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:68:9-71:72
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:68:9-71:72
 	android:label
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:70:13-49
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:70:13-49
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:71:13-69
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:71:13-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:69:13-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:69:13-60
 activity#com.malas.appsr.malasapp.activities.LoginActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:72:9-75:72
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:72:9-75:72
 	android:label
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:74:13-42
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:74:13-42
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:75:13-69
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:75:13-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:73:13-53
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:73:13-53
 service#com.malas.appsr.malasapp.ApiIntentService.RegistrationService
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:77:9-79:40
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:77:9-79:40
 	android:exported
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:79:13-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:79:13-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:78:13-65
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:78:13-65
 activity#com.malas.appsr.malasapp.HomeActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:81:9-84:59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:81:9-84:59
 	android:label
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:83:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:83:13-56
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:84:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:84:13-56
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:82:13-41
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:82:13-41
 activity#com.malas.appsr.malasapp.activities.AddRouteActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:9-65
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:9-65
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:19-62
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:19-62
 activity#com.malas.appsr.malasapp.activities.ShowOutLetActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:9-67
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:9-67
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:19-64
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:19-64
 activity#com.malas.appsr.malasapp.activities.ShowRouteActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:19-63
 activity#com.malas.appsr.malasapp.activities.UserProfileActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:9-68
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:9-68
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:19-65
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:19-65
 activity#com.malas.appsr.malasapp.activities.AboutUsActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:9-64
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:9-64
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:19-61
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:19-61
 activity#com.malas.appsr.malasapp.activities.CatagoryHandlerActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:9-72
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:9-72
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:19-69
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:19-69
 activity#com.malas.appsr.malasapp.activities.TakeStockActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:19-63
 activity#com.malas.appsr.malasapp.activities.ShowTakedStock
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:9-63
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:9-63
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:19-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:19-60
 activity#com.malas.appsr.malasapp.activities.AddTakeStock
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:9-61
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:9-61
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:19-58
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:19-58
 activity#com.malas.appsr.malasapp.activities.TakeOrderActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:19-63
 activity#com.malas.appsr.malasapp.activities.OutletOrdersActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:9-69
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:9-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:19-66
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:19-66
 activity#com.malas.appsr.malasapp.activities.AddTakeOrder
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:9-61
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:9-61
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:19-58
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:19-58
 activity#com.malas.appsr.malasapp.activities.ViewTakenOrder
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:9-63
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:9-63
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:19-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:19-60
 activity#com.malas.appsr.malasapp.activities.ShowPlaceOrder
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:9-63
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:9-63
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:19-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:19-60
 activity#com.malas.appsr.malasapp.activities.EditTakenStock
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:9-63
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:9-63
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:19-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:19-60
 activity#com.malas.appsr.malasapp.activities.CustomerActivityDetail
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:19-68
 activity#com.malas.appsr.malasapp.activities.EditTakenOrder
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:9-63
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:9-63
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:19-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:19-60
 activity#com.malas.appsr.malasapp.activities.ChangePasswordActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:19-68
 activity#com.malas.appsr.malasapp.activities.PlaceOrderToDistributor
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:9-72
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:9-72
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:19-69
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:19-69
 activity#com.malas.appsr.malasapp.activities.TargetActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:9-63
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:9-63
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:19-60
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:19-60
 activity#com.malas.appsr.malasapp.activities.ShowPlaceOrderNew
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:19-63
 activity#com.malas.appsr.malasapp.activities.ReportGridActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:9-67
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:9-67
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:19-64
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:19-64
 activity#com.malas.appsr.malasapp.activities.AverageLineCutActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:19-68
 activity#com.malas.appsr.malasapp.activities.TopViewReport
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:9-62
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:9-62
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:19-59
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:19-59
 activity#com.malas.appsr.malasapp.activities.AverageBillReport
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:19-63
 activity#com.malas.appsr.malasapp.activities.UniqueBillOutletReport
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:19-68
 activity#com.malas.appsr.malasapp.activities.ProductivityReport
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:9-67
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:9-67
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:19-64
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:19-64
 activity#com.malas.appsr.malasapp.activities.SRReasonActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:112:9-114:59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:112:9-114:59
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:114:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:114:13-56
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:113:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:113:13-56
 activity#com.malas.appsr.malasapp.activities.BroadcastActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:9-66
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:9-66
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:19-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:19-63
 activity#com.malas.appsr.malasapp.activities.PlaceOrderListActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:19-68
 activity#com.malas.appsr.malasapp.activities.ShowPreviousPlacedOrderList
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:9-76
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:9-76
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:19-73
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:19-73
 activity#com.malas.appsr.malasapp.activities.UploadImageForActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:19-68
 activity#com.malas.appsr.malasapp.activities.ConfirmPlaceOrderActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:119:9-121:59
-	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:121:13-56
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:119:9-121:14
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:120:13-65
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:120:13-65
 activity#com.malas.appsr.malasapp.activities.CustomerFeedbackListActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:122:9-124:59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:122:9-124:59
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:124:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:124:13-56
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:123:13-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:123:13-68
 activity#com.malas.appsr.malasapp.activities.OfflineOrderData
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:125:9-127:59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:125:9-127:59
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:127:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:127:13-56
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:126:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:126:13-56
 activity#com.malas.appsr.malasapp.activities.ActivityLoginDetailsDialog
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:128:9-130:59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:128:9-130:59
 	android:theme
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:130:13-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:130:13-56
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:129:13-66
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:129:13-66
 activity#com.malas.appsr.malasapp.activities.ActivitySR
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:9-59
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:9-59
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:19-56
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:19-56
 activity#com.malas.appsr.malasapp.activities.ActivitySRDetail
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:9-65
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:9-65
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:19-62
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:19-62
 activity#com.malas.appsr.malasapp.activities.LeaveMangementActivity
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:9-71
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:9-71
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:19-68
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:19-68
 activity#com.malas.appsr.malasapp.activities.ActivitySelectDetail
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:9-69
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:9-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:19-66
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:19-66
 activity#com.malas.appsr.malasapp.activities.CustomerActivityForm
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:9-69
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:9-69
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:19-66
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:19-66
 service#com.malas.appsr.malasapp.service.MyFirebaseMessagingService
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:136:9-142:19
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:136:9-142:19
 	android:exported
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:138:13-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:138:13-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:137:13-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:137:13-63
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:139:13-141:29
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:139:13-141:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:17-78
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:17-78
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:25-75
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:25-75
 service#com.malas.appsr.malasapp.services.geocoder.FetchAddressIntentService
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:9-80
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:9-80
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:18-77
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:18-77
 activity#com.malas.appsr.malasapp.util.HalfCircleProgressDemo
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:9-65
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:9-65
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:19-62
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:19-62
 provider#androidx.core.content.FileProvider
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:147:9-155:20
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:147:9-155:20
 	android:grantUriPermissions
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:151:13-47
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:151:13-47
 	android:authorities
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:149:13-63
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:149:13-63
 	android:exported
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:150:13-37
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:150:13-37
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:148:13-62
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:148:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:152:13-154:56
+ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:152:13-154:56
 	android:resource
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:154:17-53
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:154:17-53
 	android:name
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:153:17-67
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:153:17-67
 uses-sdk
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\Ajiz\.gradle\caches\transforms-3\76178b5b6b87e46de0afef780bd9ec88\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\Ajiz\.gradle\caches\transforms-3\76178b5b6b87e46de0afef780bd9ec88\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-10:40
-MERGED from [:AmitLibs] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-10:40
-MERGED from [:RobotoCalenderView] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\RobotoCalenderView\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:RobotoCalenderView] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\RobotoCalenderView\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:ExpenseUtility] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\ExpenseUtility\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:ExpenseUtility] C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\ExpenseUtility\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-10:40
+MERGED from [:AmitLibs] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\AmitLibs\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-10:40
+MERGED from [:RobotoCalenderView] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\RobotoCalenderView\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:RobotoCalenderView] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\RobotoCalenderView\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:ExpenseUtility] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\ExpenseUtility\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:ExpenseUtility] C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\ExpenseUtility\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\Ajiz\.gradle\caches\transforms-3\190d8c8dd157439acbadbb742451251a\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] C:\Users\Ajiz\.gradle\caches\transforms-3\190d8c8dd157439acbadbb742451251a\transformed\navigation-ui-ktx-2.5.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.2] C:\Users\Ajiz\.gradle\caches\transforms-3\4efa3a36902bdd0e0547857d24c60416\transformed\navigation-ui-2.5.2\AndroidManifest.xml:20:5-22:41
@@ -906,18 +904,18 @@ MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Ajiz\.gradle\caches\t
 MERGED from [io.github.inflationx:viewpump:2.0.3] C:\Users\Ajiz\.gradle\caches\transforms-3\37c20a4fecb72f6061cf44ae17550d88\transformed\jetified-viewpump-2.0.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\26f51464abb57a7b1bd18bcc6622c8c5\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\26f51464abb57a7b1bd18bcc6622c8c5\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12 reason: com.djhs16.hslibs has a targetSdkVersion < 4
+IMPLIED from C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:2:1-158:12 reason: com.djhs16.hslibs has a targetSdkVersion < 4
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents

@@ -40,7 +40,7 @@ public class ShowPreviousPlacedOrderList extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_take_stock_second);
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Placed Order List");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("Placed Order");
 
         // get the listview
         expListView = findViewById(R.id.lvjam);

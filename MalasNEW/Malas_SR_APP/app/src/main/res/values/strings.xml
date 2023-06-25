@@ -23,8 +23,8 @@
     <string name="take_order">Outlet Order</string>
     <string name="distributor_order">Distributor Order</string>
     <string name="day_end">Day End</string>
-    <string name="leave_management">Leave Management</string>
-    <string name="expense_management">Expense Management</string>
+    <string name="leave_management">Leave &amp; Comp-Off</string>
+    <string name="expense_management">Expense</string>
     <string name="catalogue">Catalogue</string>
     <string name="about_us">About us</string>
     <string name="tour_plan">Tour Plan</string>
@@ -42,7 +42,7 @@
     <string name="leave_request_status">LEAVE REQUEST STATUS</string>
     <string name="status_of_request">STATUS OF REQUEST</string>
     <string name="total_leaves_ndays">Leave Days</string>
-    <string name="leave_request">LEAVE REQUEST</string>
+    <string name="leave_request">Apply Leave</string>
     <string name="end_date">End Date</string>
     <string name="dd_mm_yyyy">dd-MM-yyyy</string>
     <string name="leave_balance">Leave Balance</string>
@@ -52,11 +52,11 @@
     <string name="days">Days:</string>
     <string name="type">Type:</string>
     <string name="apply_date">Apply\nDate:</string>
-    <string name="earn_comp_off_request">EARN COMP-OFF REQUEST</string>
+    <string name="earn_comp_off_request">EARN COMP-OFF</string>
     <string name="request_id">Request Id:</string>
     <string name="validity">Validity:</string>
     <string name="enter_here">Enter Here....</string>
-    <string name="revert_request">REVERT REQUEST</string>
+    <string name="revert_request">REVERT LEAVE</string>
     <string name="revert"><u>Revert</u></string>
     <string name="close"><u>Close</u></string>
     <string name="email_id">Email Id</string>
@@ -82,7 +82,7 @@
     <string name="mala_s_fruit_products">Mala\'s Food Products Pvt. Ltd.</string>
     <string name="web">Web:-</string>
     <string name="www_malasfruit_com">www.malasfruit.com</string>
-    <string name="_91_9767175237_918390778653">+91–8149525824, +91–7219813082</string>
+    <string name="_91_9767175237_918390778653">+91–9271053003, +91–9271053002</string>
     <string name="helpline">Helpline:</string>
     <string name="_91_2168_240672">+91–2168240672</string>
     <string name="fax">Fax :-</string>
@@ -100,7 +100,7 @@
    \n\n\t\t\t Mala\'s has been consistent in serving for the betterment of the society along with providing the right quality product to its customers. We are a value driven company that focuses on teamwork, communication, accountability, quality and passion. Because of undying affection, support, love and security of their personnel\'s the company has grown gradually since 1950\'s. The company is a boon to the localities for them it has been their bread, butter and Jam!
     \n\n\t\t\t\t Mala\'s we promise to leave your varied taste-buds as gratified as our fruitful journey in building the country\'s most sought after processed fruits company. We are also committed in bringing you fruits in a manifestation closest to the Quality that Nature\'s intended.
     \n \n\t\t\t At Mala\'s it\'s not about Competition it\'s about consistency and being unique. We are growing and evolving ourselves striving to achieve newer heights and bench marking our own achievements.</string>
-    <string name="holiday_calendar">Holiday Calendar</string>
+    <string name="holiday_calendar">Holiday/Attendance Calendar</string>
     <string name="refresh_location">Refresh Location</string>
     <string name="choose_app_to_upload_image">Choose App to Upload Image</string>
     <string name="gallery">Gallery</string>

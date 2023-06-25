@@ -56,8 +56,9 @@ class Catalogue : AppCompatActivity() {
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.home, menu)
-        menu!!.getItem(0).setIcon(0)
+        menu!!.getItem(0).setIcon(R.drawable.ic_baseline_cloud_download_24)
         menu.getItem(0).title = "Download"
+        menu.getItem(0).setShowAsAction(MenuItem.SHOW_AS_ACTION_ALWAYS)
         return true
     }
 

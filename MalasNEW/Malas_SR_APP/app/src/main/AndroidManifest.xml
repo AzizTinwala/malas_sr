@@ -118,7 +118,7 @@
         <activity android:name=".activities.UploadImageForActivity" />
         <activity
             android:name=".activities.ConfirmPlaceOrderActivity"
-            android:theme="@android:style/Theme.Dialog" />
+           />
         <activity
             android:name=".activities.CustomerFeedbackListActivity"
             android:theme="@android:style/Theme.Dialog" />

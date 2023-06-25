@@ -146,7 +146,7 @@ class ExpenseManagement : AppCompatActivity() {
 
         setContentView(R.layout.activity_expense_management)
 
-        supportActionBar!!.title = "Expense Management"
+        supportActionBar!!.title = "Expense Sheet"
         complexPreferences =
             ComplexPreferences.getComplexPreferences(this, Constant.UserRegInfoPref, MODE_PRIVATE)
         mUserLoginInfoBean =
@@ -233,7 +233,7 @@ class ExpenseManagement : AppCompatActivity() {
                 else -> {
                     Snackbar.make(
                         view,
-                        "Attendance Not Marked for " + SimpleDateFormat(
+                        /*"Attendance Not Marked for "*/"Expense Not Allowed For "+ SimpleDateFormat(
                             "dd-MM-yyyy",
                             Locale.getDefault()
                         ).format(cal!!.dates!![position])
@@ -1694,9 +1694,7 @@ class ExpenseManagement : AppCompatActivity() {
             townFrom!!.error = "Select City"
             flag = false
 
-        } else if (TownFrom_Input!!.isErrorEnabled) {
-            flag = false
-        } else {
+        }  else {
 
             TownFrom_Input!!.isErrorEnabled = false
 
@@ -1708,9 +1706,7 @@ class ExpenseManagement : AppCompatActivity() {
             townTo!!.error = "Select City"
             flag = false
 
-        } else if (TownTo_Input!!.isErrorEnabled) {
-            flag = false
-        } else {
+        }  else {
             TownTo_Input!!.isErrorEnabled = false
         }
 

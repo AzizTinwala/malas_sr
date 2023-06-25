@@ -2659,9 +2659,11 @@
     <property name="android-custom-viewkotlinDecompiled/ExpenseManagement.decompiled.java_SELECTED" value="ExpenseManagement" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="com.android.tools.idea.sqlite.queryhistory" value="SELECT  * FROM product" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExpenseUtility/src/main/res/drawable" />
     <property name="multi-representation-previewC:/Users/Master/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Master/AppData/Local/Android/Sdk/sources/android-29/android/widget/AutoCompleteTextView.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/Master/Downloads/MalasNEW/MalasNEW/Malas_SR_APP/ExpenseUtility/src/main/java/com/example/expenseutility/ExpenseManagement.kt_selected" value="Custom views" />
@@ -2671,7 +2673,7 @@
     <property name="recommended.upgrade.do.not.ask.for.version" value="4.1.1" />
     <property name="recommended.upgrade.last.time.stamp" value="1604128647218" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
   <component name="PsdUISettings">
@@ -2718,11 +2720,11 @@
       <recent name="com.malas.appsr.malasapp.activities" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\ExpenseUtility\src\main\res\drawable" />
       <recent name="C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\res\layout\" />
       <recent name="C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\res\layout-v21" />
       <recent name="C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP" />
       <recent name="C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\res\drawable-v21" />
-      <recent name="C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\res\menu" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Master\Downloads\MalasNEW\MalasNEW\Malas_SR_APP\app\src\main\res\layout" />
@@ -2882,11 +2884,6 @@
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>122</line>
-          <option name="timeStamp" value="257" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/TakeStockActivity.java</url>
           <line>312</line>
           <option name="timeStamp" value="260" />
@@ -2963,7 +2960,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ShowPlaceOrderNew.java</url>
-          <line>313</line>
+          <line>314</line>
           <option name="timeStamp" value="525" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
@@ -3103,7 +3100,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ShowPlaceOrderNew.java</url>
-          <line>384</line>
+          <line>385</line>
           <option name="timeStamp" value="724" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
@@ -3318,57 +3315,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="927" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="928" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="929" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="931" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="933" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="934" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="935" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>141</line>
-          <option name="timeStamp" value="939" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>142</line>
-          <option name="timeStamp" value="940" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>296</line>
+          <line>280</line>
           <option name="timeStamp" value="956" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>299</line>
+          <line>283</line>
           <option name="timeStamp" value="957" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
@@ -3378,17 +3330,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>421</line>
+          <line>390</line>
           <option name="timeStamp" value="1054" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>422</line>
+          <line>391</line>
           <option name="timeStamp" value="1055" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/HolidayCalendar.java</url>
-          <line>403</line>
+          <line>375</line>
           <option name="timeStamp" value="1058" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
@@ -3398,17 +3350,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ShowPlaceOrderNew.java</url>
-          <line>402</line>
+          <line>403</line>
           <option name="timeStamp" value="1071" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ShowPlaceOrderNew.java</url>
-          <line>403</line>
+          <line>404</line>
           <option name="timeStamp" value="1072" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ShowPlaceOrderNew.java</url>
-          <line>404</line>
+          <line>405</line>
           <option name="timeStamp" value="1073" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
@@ -3473,12 +3425,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ExpenseManagement.kt</url>
-          <line>2071</line>
+          <line>2067</line>
           <option name="timeStamp" value="645" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/malas/appsr/malasapp/activities/ExpenseManagement.kt</url>
-          <line>2070</line>
+          <line>2066</line>
           <option name="timeStamp" value="646" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">

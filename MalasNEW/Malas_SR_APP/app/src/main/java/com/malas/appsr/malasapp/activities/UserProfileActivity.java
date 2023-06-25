@@ -96,7 +96,11 @@ public class UserProfileActivity extends AppCompatActivity {
         tvMobile.setText(mUserLoginInfoBean.getUserMobile());
         tvAddress.setText(mUserLoginInfoBean.getUserAddress());
         tvEmail.setText(mUserLoginInfoBean.getUserEmail());
-        tvDateOfBirth.setText(mUserLoginInfoBean.getUserDob());
+        try{
+        tvDateOfBirth.setText(new_sdf.format(old_sdf.parse(mUserLoginInfoBean.getUserDob())));
+        }catch (Exception e){
+            Log.e("DOB",e.getMessage());
+        }
         tvCountry.setText(mUserLoginInfoBean.getCountryName());
         tvCity.setText(mUserLoginInfoBean.getUserCity());
         if (mUserLoginInfoBean.getSsoName() == null)
@@ -107,10 +111,14 @@ public class UserProfileActivity extends AppCompatActivity {
             tvAsmName.setText("");
         else
             tvAsmName.setText(mUserLoginInfoBean.getAsmName());
-        if (mUserLoginInfoBean.getDateOfJoining() == null)
-            tvDateOfJoining.setText("");
-        else {
-            tvDateOfJoining.setText(mUserLoginInfoBean.getDateOfJoining());
+        try{
+            if (mUserLoginInfoBean.getDateOfJoining() == null)
+                tvDateOfJoining.setText("");
+            else {
+                tvDateOfJoining.setText(new_sdf.format(Objects.requireNonNull(old_sdf.parse(mUserLoginInfoBean.getDateOfJoining()))));
+            }
+        }catch(Exception e){
+            Log.e("DOB",e.getMessage());
         }
         tvDepartment.setText(mUserLoginInfoBean.getUserDepartment());
         tvDesignation.setText(mUserLoginInfoBean.getUserDesignation());

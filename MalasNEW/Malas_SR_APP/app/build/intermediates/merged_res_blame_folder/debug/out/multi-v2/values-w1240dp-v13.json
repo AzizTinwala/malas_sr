@@ -4,7 +4,7 @@
             "outputFile": "com.malas.appsr.malasapp-mergeDebugResources-62:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ajiz\\AndroidStudioProjects\\MalasNEW\\Malas_SR_APP\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+                    "source": "C:\\Users\\Ajiz\\StudioProjects\\malas_sr\\MalasNEW\\Malas_SR_APP\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "8",

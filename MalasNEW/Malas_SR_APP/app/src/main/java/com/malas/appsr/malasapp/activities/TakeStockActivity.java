@@ -78,7 +78,7 @@ public class TakeStockActivity extends AppCompatActivity {
         lvShowStock = (NonScrollListView) findViewById(R.id.list_view_show_outlet);
         tverritoryname = findViewById(R.id.tv_territory_stock);
 
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Stock List");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("DS Stock");
 
         ComplexPreferences complexPrefs = ComplexPreferences.getComplexPreferences(TakeStockActivity.this, Constant.UserRegInfoPref, MODE_PRIVATE);
         UserLoginInfoBean mUserLoginInfoBean = complexPrefs.getObject(Constant.UserRegInfoObj, UserLoginInfoBean.class);

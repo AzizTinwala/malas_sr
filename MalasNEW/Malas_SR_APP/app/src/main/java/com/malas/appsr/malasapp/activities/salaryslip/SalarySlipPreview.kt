@@ -107,6 +107,9 @@ class SalarySlipPreview : AppCompatActivity() {
 
 
         download!!.setOnClickListener {
+            if (listview!!.text.trim().toString().isEmpty()) {
+                return@setOnClickListener
+            }
             downloadManager = getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
             val uri = Uri.parse(url)
             val request = DownloadManager.Request(uri)

@@ -86,7 +86,7 @@ public class OutletOrdersActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_outlet_orders);
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Order List");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("Order History");
 
         // Object Defined
 

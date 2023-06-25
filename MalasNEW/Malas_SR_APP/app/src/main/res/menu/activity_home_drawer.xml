@@ -56,7 +56,7 @@
             android:id="@+id/nav_catalogue"
             android:icon="@drawable/ic_baseline_featured_play_list_24"
             android:title="@string/catalogue" />
-        <item
+      <!--  <item
             android:id="@+id/nav_broadcast"
             android:icon="@drawable/baseline_notifications_active_blue_900_24dp"
             android:title="@string/broadcast" />
@@ -65,7 +65,7 @@
             android:id="@+id/nav_activity"
             android:icon="@drawable/baseline_local_activity_black_24dp"
             android:title="@string/activity" />
-
+-->
         <item
             android:id="@+id/nav_show_profile"
             android:icon="@drawable/baseline_account_circle_purple_600_24dp"

@@ -44,17 +44,20 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
     SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault());
     HolidayAdapter holidayAdapter;
     ArrayList<attendance_report> attendance = new ArrayList<>();
-    TextView present, weekoff, holiday, leave,absent;
+    TextView present, weekoff, holiday, leave, absent;
     List<leave_monthly_report> leave_list = new ArrayList<>();
     private List<String> absent_list = new ArrayList();
     HashMap<String, Integer> weekdays = new HashMap<>();
+    SimpleDateFormat new_sdf, old_sdf;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_holiday_calendar);
-        Objects.requireNonNull(getSupportActionBar()).setTitle("Holiday Calendar");
+        Objects.requireNonNull(getSupportActionBar()).setTitle("Holiday/Attendance Calendar");
+        new_sdf = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss", Locale.getDefault());
+        old_sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss", Locale.getDefault());
 
         holidayCalendar = findViewById(R.id.holiday);
         holidayCalendar.setRobotoCalendarListener(this);
@@ -79,10 +82,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
 
     @Override
     public void onDayClick(Date date, View view) {
-        showtooltip(
-                view,
-                event.get(new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(date))
-        );
+        showtooltip(view, event.get(new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(date)));
         getweekoff();
         markHoliday();
         markattendence();
@@ -116,13 +116,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
 
     private void showtooltip(View view, String msg) {
         if (msg != null) {
-            Tooltip t = new Tooltip.Builder(view)
-                    .setText(msg)
-                    .setBackgroundColor(getResources().getColor(R.color.colorPrimary))
-                    .setTextColor(getResources().getColor(R.color.White))
-                    .setDismissOnClick(true)
-                    .setCancelable(true)
-                    .show();
+            Tooltip t = new Tooltip.Builder(view).setText(msg).setBackgroundColor(getResources().getColor(R.color.colorPrimary)).setTextColor(getResources().getColor(R.color.White)).setDismissOnClick(true).setCancelable(true).show();
             new CountDownTimer(10000, 1000) {
                 @Override
                 public void onTick(long millisUntilFinished) {
@@ -143,10 +137,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         holiday_date.clear();
         Calendar calendar = holidayCalendar.currentmonth();
         BackgroundWork back = new BackgroundWork(this);
-        back.execute(
-                "Get Holiday",
-                String.format(Locale.getDefault(), "%02d", calendar.get(Calendar.MONTH) + 1),
-                Integer.toString(calendar.get(Calendar.YEAR)));
+        back.execute("Get Holiday", String.format(Locale.getDefault(), "%02d", calendar.get(Calendar.MONTH) + 1), Integer.toString(calendar.get(Calendar.YEAR)));
 
         back.getDailog().setOnDismissListener(dialog -> {
             if (!back.getResult().isEmpty()) {
@@ -168,12 +159,16 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
                 }
                 holidayAdapter = new HolidayAdapter(holiday_date, event);
                 holidayRecyclerView.setAdapter(holidayAdapter);
+                holidayRecyclerView.setVisibility(View.VISIBLE);
+                findViewById(R.id.no_holiday).setVisibility(View.GONE);
                 markHoliday();
                 holiday.setText(holiday_date.size() > 0 ? String.valueOf(holiday_date.size()) : String.valueOf(0));
 
             } else {
                 holidayRecyclerView.setAdapter(null);
                 holiday.setText(String.valueOf(0));
+                holidayRecyclerView.setVisibility(View.GONE);
+                findViewById(R.id.no_holiday).setVisibility(View.VISIBLE);
 
             }
         });
@@ -186,10 +181,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
 
         for (int i = 0; i < holiday_date.size(); i++) {
             holy.setTime(ConvertStringToDate(holiday_date.get(i)));
-            if (calendar.get(Calendar.MONTH) == holy.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == holy.get(
-                    Calendar.YEAR
-            )
-            ) {
+            if (calendar.get(Calendar.MONTH) == holy.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == holy.get(Calendar.YEAR)) {
                 holidayCalendar.markHoliday(holy.getTime());
             }
         }
@@ -201,11 +193,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         attendance.clear();
         Calendar calendar = holidayCalendar.currentmonth();
         BackgroundWork back = new BackgroundWork(this);
-        back.execute(
-                "Get Monthly Attendance",
-                String.format(Locale.getDefault(), "%02d", calendar.get(Calendar.MONTH) + 1),
-                String.valueOf(calendar.get(Calendar.YEAR))
-        );
+        back.execute("Get Monthly Attendance", String.format(Locale.getDefault(), "%02d", calendar.get(Calendar.MONTH) + 1), String.valueOf(calendar.get(Calendar.YEAR)));
         back.getDailog().setOnDismissListener(dialog -> {
             if (!back.getResult().equals("Error: Data Not Found")) {
                 try {
@@ -229,16 +217,15 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
                             attendance.add(attendance_report);
 
                             String date = format.format(Objects.requireNonNull(format.parse(j_obj.getString("Time_IN"))));
-
-                            event.put(date,
-                                    "  Time IN : " + j_obj.getString("Time_IN") + "\nTime Out : " + j_obj.getString(
-                                            "Time_OUT"
-                                    ));
-
+                            if (!j_obj.getString("Time_OUT").equals("null")) {
+                                event.put(date, "  Time IN : " + new_sdf.format(Objects.requireNonNull(old_sdf.parse(j_obj.getString("Time_IN")))) + "\nTime Out : " + new_sdf.format(Objects.requireNonNull(old_sdf.parse(j_obj.getString("Time_OUT")))));
+                            } else {
+                                event.put(date, "  Time IN : " + new_sdf.format(Objects.requireNonNull(old_sdf.parse(j_obj.getString("Time_IN")))) + "\nTime Out : " + j_obj.getString("Time_OUT"));
+                            }
                         }
                     }
                     markattendence();
-                   if (attendance.size() > 0) {
+                    if (attendance.size() > 0) {
                         present.setText(String.valueOf(attendance.size()));
                     } else {
                         present.setText(String.valueOf(0));
@@ -260,10 +247,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         Calendar attend = Calendar.getInstance();
         for (int i = 0; i < attendance.size(); i++) {
             attend.setTime(ConvertStringToDate(attendance.get(i).gettimein()));
-            if (calendar.get(Calendar.MONTH) == attend.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == attend.get(
-                    Calendar.YEAR
-            )
-            ) {
+            if (calendar.get(Calendar.MONTH) == attend.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == attend.get(Calendar.YEAR)) {
                 holidayCalendar.markAttendance(attend.getTime());
             }
         }
@@ -281,18 +265,18 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         cal.set(Calendar.DAY_OF_MONTH, 1);
         int month = cal.get(Calendar.MONTH);
         try {
-        do {
-            int dayOfWeek = cal.get(Calendar.DAY_OF_WEEK);
+            do {
+                int dayOfWeek = cal.get(Calendar.DAY_OF_WEEK);
 
-            if (dayOfWeek ==weekdays.get(mUserLoginInfoBean.getWeekOff().toUpperCase(Locale.getDefault()))) {
+                if (dayOfWeek == weekdays.get(mUserLoginInfoBean.getWeekOff().toUpperCase(Locale.getDefault()))) {
 
-                disable.add(cal.getTime());
-            }
+                    disable.add(cal.getTime());
+                }
 
-            cal.add(Calendar.DAY_OF_MONTH, 1);
-        } while (cal.get(Calendar.MONTH) == month);
-         weekoff.setText(disable.size());
-        }catch(Exception e){
+                cal.add(Calendar.DAY_OF_MONTH, 1);
+            } while (cal.get(Calendar.MONTH) == month);
+            weekoff.setText(disable.size());
+        } catch (Exception e) {
             if (e.getMessage() != null) {
                 Log.e("Error", e.getMessage());
             }
@@ -321,11 +305,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         leave_list.clear();
         Calendar calendar = holidayCalendar.currentmonth();
         BackgroundWork back = new BackgroundWork(this);
-        back.execute(
-                "Get Monthly Leave",
-                String.format("%02d", calendar.get(Calendar.MONTH) + 1),
-                String.valueOf(calendar.get(Calendar.YEAR))
-        );
+        back.execute("Get Monthly Leave", String.format("%02d", calendar.get(Calendar.MONTH) + 1), String.valueOf(calendar.get(Calendar.YEAR)));
         back.getDailog().setOnDismissListener(dialogInterface -> {
 
             try {
@@ -346,8 +326,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
                             leave_list.add(leave_report);
 
 
-                            event.put(j_obj.getString("date"),
-                                    "Reason : " + j_obj.getString("reason") + "\nRemark : " + j_obj.getString("remark"));
+                            event.put(j_obj.getString("date"), "Reason : " + j_obj.getString("reason") + "\nRemark : " + j_obj.getString("remark"));
                         }
                     }
 
@@ -371,10 +350,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         Calendar attend = Calendar.getInstance();
         for (int i = 0; i < leave_list.size(); i++) {
             attend.setTime(ConvertStringToDate(leave_list.get(i).getDate()));
-            if (calendar.get(Calendar.MONTH) == attend.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == attend.get(
-                    Calendar.YEAR
-            )
-            ) {
+            if (calendar.get(Calendar.MONTH) == attend.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == attend.get(Calendar.YEAR)) {
                 holidayCalendar.markLeave(attend.getTime());
             }
         }
@@ -385,11 +361,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         absent_list.clear();
         Calendar calendar = holidayCalendar.currentmonth();
         BackgroundWork back = new BackgroundWork(this);
-        back.execute(
-                "Get Monthly Absent",
-                String.format("%02d", calendar.get(Calendar.MONTH) + 1),
-                String.valueOf(calendar.get(Calendar.YEAR))
-        );
+        back.execute("Get Monthly Absent", String.format("%02d", calendar.get(Calendar.MONTH) + 1), String.valueOf(calendar.get(Calendar.YEAR)));
         back.getDailog().setOnDismissListener(dialogInterface -> {
 
             try {
@@ -404,10 +376,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
                             absent_list.add(j_obj.getString("date"));
 
 
-
-
-                            event.put(j_obj.getString("date"),
-                                    "Remark : Absent");
+                            event.put(j_obj.getString("date"), "Remark : Absent");
                         }
                     }
 
@@ -431,10 +400,7 @@ public class HolidayCalendar extends AppCompatActivity implements RobotoCalendar
         Calendar attend = Calendar.getInstance();
         for (int i = 0; i < absent_list.size(); i++) {
             attend.setTime(ConvertStringToDate(absent_list.get(i)));
-            if (calendar.get(Calendar.MONTH) == attend.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == attend.get(
-                    Calendar.YEAR
-            )
-            ) {
+            if (calendar.get(Calendar.MONTH) == attend.get(Calendar.MONTH) && calendar.get(Calendar.YEAR) == attend.get(Calendar.YEAR)) {
                 holidayCalendar.markAbsent(attend.getTime());
             }
         }

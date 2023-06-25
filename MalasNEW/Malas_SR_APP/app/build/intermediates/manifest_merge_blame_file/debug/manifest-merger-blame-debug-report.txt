@@ -6,46 +6,46 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+8-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
+9-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.VIBRATE" />
-11-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:5-66
-11-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:22-63
+11-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:5:22-63
 12    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-12-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:5-82
-12-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:22-79
+12-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:5-82
+12-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:6:22-79
 13    <uses-permission android:name="com.google.android.c2dm.permission.SEND" />
-13-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:5-79
-13-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:22-76
+13-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:7:22-76
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:5-80
-14-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:22-77
+14-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:8:22-77
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:9:5-11:40
-15-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:10:9-65
+15-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:9:5-11:40
+15-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:10:9-65
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
-16-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:5-68
-16-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:22-65
+16-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:5-68
+16-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:12:22-65
 17    <uses-permission android:name="android.permission.INTERNET" />
-17-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:5-67
-17-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:22-64
+17-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:5-67
+17-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:13:22-64
 18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-18-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:5-81
-18-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:22-78
+18-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:5-81
+18-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:14:22-78
 19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-19-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:5-79
-19-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:22-76
+19-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:5-79
+19-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:15:22-76
 20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:5-79
-20-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:22-76
+20-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:5-79
+20-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:16:22-76
 21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-21-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:5-76
-21-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:22-73
+21-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:5-76
+21-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:17:22-73
 22    <uses-permission android:name="android.permission.CAMERA" />
-22-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:5-65
-22-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:22-62
+22-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:5-65
+22-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:18:22-62
 23    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 24    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 24-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:25:5-77
@@ -73,582 +73,579 @@
 34-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:13:22-74
 35
 36    <application
-36-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:20:5-156:19
+36-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:20:5-156:19
 37        android:allowBackup="true"
-37-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:21:9-35
+37-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:21:9-35
 38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 38-->[androidx.core:core:1.9.0] C:\Users\Ajiz\.gradle\caches\transforms-3\5a6841ef78f2cd952a5091e3b9621d4e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 39        android:debuggable="true"
 40        android:icon="@mipmap/malas_logo"
-40-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:22:9-42
+40-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:22:9-42
 41        android:label="@string/app_name"
-41-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:23:9-41
+41-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:23:9-41
 42        android:requestLegacyExternalStorage="true"
-42-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:24:9-52
+42-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:24:9-52
 43        android:supportsRtl="true"
-43-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:25:9-35
+43-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:25:9-35
 44        android:testOnly="true"
 45        android:theme="@style/AppTheme"
-45-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:26:9-40
+45-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:26:9-40
 46        android:usesCleartextTraffic="true" >
-46-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:27:9-44
+46-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:27:9-44
 47        <activity
-47-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:31:9-37:20
+47-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:31:9-37:20
 48            android:name="com.malas.appsr.malasapp.activities.TourPlan"
-48-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:32:13-48
+48-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:32:13-48
 49            android:exported="false" >
-49-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:33:13-37
+49-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:33:13-37
 50            <meta-data
-50-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:34:13-36:36
+50-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:34:13-36:36
 51                android:name="android.app.lib_name"
-51-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:35:17-52
+51-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:35:17-52
 52                android:value="" />
-52-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:36:17-33
+52-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:36:17-33
 53        </activity>
 54        <activity
-54-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:38:9-40:40
+54-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:38:9-40:40
 55            android:name="com.malas.appsr.malasapp.activities.ExitForm"
-55-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:39:13-48
+55-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:39:13-48
 56            android:exported="false" />
-56-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:40:13-37
+56-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:40:13-37
 57        <activity android:name="com.malas.appsr.malasapp.activities.BirthdayGreetings" />
-57-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:9-66
-57-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:19-63
+57-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:9-66
+57-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:41:19-63
 58        <activity android:name="com.malas.appsr.malasapp.activities.ConfirmOutletOrders" />
-58-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:9-68
-58-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:19-65
+58-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:9-68
+58-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:42:19-65
 59        <activity android:name="com.malas.appsr.malasapp.activities.ConfirmStocks" />
-59-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:9-62
-59-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:19-59
+59-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:9-62
+59-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:43:19-59
 60        <activity android:name="com.malas.appsr.malasapp.activities.ImageZoomPreview" />
-60-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:9-65
-60-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:19-62
+60-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:9-65
+60-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:44:19-62
 61        <activity android:name="com.malas.appsr.malasapp.activities.Catalogue" />
-61-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:9-58
-61-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:19-55
+61-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:9-58
+61-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:45:19-55
 62        <activity android:name="com.malas.appsr.malasapp.activities.salaryslip.SalarySlipPreview" />
-62-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:9-77
-62-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:19-74
+62-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:9-77
+62-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:46:19-74
 63        <activity android:name="com.malas.appsr.malasapp.temp.tempShowPlaceOrderNew" />
-63-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:9-64
-63-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:19-61
+63-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:9-64
+63-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:47:19-61
 64        <activity android:name="com.malas.appsr.malasapp.activities.ClockInOut" />
-64-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:9-59
-64-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:19-56
+64-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:9-59
+64-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:48:19-56
 65        <activity android:name="com.malas.appsr.malasapp.activities.ExpenseManagement" />
-65-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:9-66
-65-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:19-63
+65-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:9-66
+65-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:49:19-63
 66        <activity android:name="com.malas.appsr.malasapp.activities.HolidayCalendar" />
-66-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:9-64
-66-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:19-61
+66-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:9-64
+66-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:50:19-61
 67
 68        <uses-library
-68-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:52:9-54:40
+68-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:52:9-54:40
 69            android:name="org.apache.http.legacy"
-69-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:53:13-50
+69-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:53:13-50
 70            android:required="false" />
-70-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:54:13-37
+70-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:54:13-37
 71
 72        <activity
-72-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:56:9-66:20
+72-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:56:9-66:20
 73            android:name="com.malas.appsr.malasapp.SplashActivity"
-73-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:57:13-43
+73-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:57:13-43
 74            android:exported="true"
-74-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:58:13-36
+74-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:58:13-36
 75            android:label="@string/app_name"
-75-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:59:13-45
+75-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:59:13-45
 76            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-76-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:60:13-69
+76-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:60:13-69
 77            <intent-filter>
-77-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:61:13-65:29
+77-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:61:13-65:29
 78                <action android:name="android.intent.action.MAIN" />
-78-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:17-69
-78-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:25-66
+78-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:17-69
+78-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:62:25-66
 79
 80                <category android:name="android.intent.category.LAUNCHER" />
-80-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:17-77
-80-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:27-74
+80-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:17-77
+80-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:64:27-74
 81            </intent-filter>
 82        </activity>
 83        <activity android:name="com.malas.appsr.malasapp.activities.AddNewOutletActivity" />
-83-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:9-69
-83-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:19-66
+83-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:9-69
+83-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:67:19-66
 84        <activity
-84-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:68:9-71:72
+84-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:68:9-71:72
 85            android:name="com.malas.appsr.malasapp.activities.RegistrationActivity"
-85-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:69:13-60
+85-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:69:13-60
 86            android:label="RegistrationActivity"
-86-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:70:13-49
+86-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:70:13-49
 87            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-87-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:71:13-69
+87-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:71:13-69
 88        <activity
-88-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:72:9-75:72
+88-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:72:9-75:72
 89            android:name="com.malas.appsr.malasapp.activities.LoginActivity"
-89-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:73:13-53
+89-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:73:13-53
 90            android:label="LoginActivity"
-90-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:74:13-42
+90-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:74:13-42
 91            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-91-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:75:13-69
+91-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:75:13-69
 92
 93        <service
-93-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:77:9-79:40
+93-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:77:9-79:40
 94            android:name="com.malas.appsr.malasapp.ApiIntentService.RegistrationService"
-94-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:78:13-65
+94-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:78:13-65
 95            android:exported="false" />
-95-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:79:13-37
+95-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:79:13-37
 96
 97        <activity
-97-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:81:9-84:59
+97-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:81:9-84:59
 98            android:name="com.malas.appsr.malasapp.HomeActivity"
-98-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:82:13-41
+98-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:82:13-41
 99            android:label="@string/title_activity_home"
-99-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:83:13-56
+99-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:83:13-56
 100            android:theme="@style/AppTheme.NoActionBar" />
-100-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:84:13-56
+100-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:84:13-56
 101        <activity android:name="com.malas.appsr.malasapp.activities.AddRouteActivity" />
-101-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:9-65
-101-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:19-62
+101-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:9-65
+101-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:85:19-62
 102        <activity android:name="com.malas.appsr.malasapp.activities.ShowOutLetActivity" />
-102-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:9-67
-102-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:19-64
+102-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:9-67
+102-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:86:19-64
 103        <activity android:name="com.malas.appsr.malasapp.activities.ShowRouteActivity" />
-103-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:9-66
-103-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:19-63
+103-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:9-66
+103-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:87:19-63
 104        <activity android:name="com.malas.appsr.malasapp.activities.UserProfileActivity" />
-104-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:9-68
-104-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:19-65
+104-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:9-68
+104-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:88:19-65
 105        <activity android:name="com.malas.appsr.malasapp.activities.AboutUsActivity" />
-105-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:9-64
-105-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:19-61
+105-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:9-64
+105-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:89:19-61
 106        <activity android:name="com.malas.appsr.malasapp.activities.CatagoryHandlerActivity" />
-106-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:9-72
-106-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:19-69
+106-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:9-72
+106-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:90:19-69
 107        <activity android:name="com.malas.appsr.malasapp.activities.TakeStockActivity" />
-107-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:9-66
-107-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:19-63
+107-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:9-66
+107-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:91:19-63
 108        <activity android:name="com.malas.appsr.malasapp.activities.ShowTakedStock" />
-108-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:9-63
-108-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:19-60
+108-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:9-63
+108-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:92:19-60
 109        <activity android:name="com.malas.appsr.malasapp.activities.AddTakeStock" />
-109-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:9-61
-109-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:19-58
+109-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:9-61
+109-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:93:19-58
 110        <activity android:name="com.malas.appsr.malasapp.activities.TakeOrderActivity" />
-110-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:9-66
-110-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:19-63
+110-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:9-66
+110-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:94:19-63
 111        <activity android:name="com.malas.appsr.malasapp.activities.OutletOrdersActivity" />
-111-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:9-69
-111-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:19-66
+111-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:9-69
+111-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:95:19-66
 112        <activity android:name="com.malas.appsr.malasapp.activities.AddTakeOrder" />
-112-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:9-61
-112-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:19-58
+112-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:9-61
+112-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:96:19-58
 113        <activity android:name="com.malas.appsr.malasapp.activities.ViewTakenOrder" />
-113-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:9-63
-113-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:19-60
+113-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:9-63
+113-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:97:19-60
 114        <activity android:name="com.malas.appsr.malasapp.activities.ShowPlaceOrder" />
-114-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:9-63
-114-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:19-60
+114-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:9-63
+114-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:98:19-60
 115        <activity android:name="com.malas.appsr.malasapp.activities.EditTakenStock" />
-115-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:9-63
-115-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:19-60
+115-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:9-63
+115-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:99:19-60
 116        <activity android:name="com.malas.appsr.malasapp.activities.CustomerActivityDetail" />
-116-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:9-71
-116-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:19-68
+116-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:9-71
+116-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:100:19-68
 117        <activity android:name="com.malas.appsr.malasapp.activities.EditTakenOrder" />
-117-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:9-63
-117-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:19-60
+117-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:9-63
+117-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:101:19-60
 118        <activity android:name="com.malas.appsr.malasapp.activities.ChangePasswordActivity" />
-118-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:9-71
-118-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:19-68
+118-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:9-71
+118-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:102:19-68
 119        <activity android:name="com.malas.appsr.malasapp.activities.PlaceOrderToDistributor" />
-119-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:9-72
-119-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:19-69
+119-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:9-72
+119-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:103:19-69
 120        <activity android:name="com.malas.appsr.malasapp.activities.TargetActivity" />
-120-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:9-63
-120-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:19-60
+120-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:9-63
+120-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:104:19-60
 121        <activity android:name="com.malas.appsr.malasapp.activities.ShowPlaceOrderNew" />
-121-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:9-66
-121-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:19-63
+121-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:9-66
+121-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:105:19-63
 122        <activity android:name="com.malas.appsr.malasapp.activities.ReportGridActivity" />
-122-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:9-67
-122-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:19-64
+122-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:9-67
+122-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:106:19-64
 123        <activity android:name="com.malas.appsr.malasapp.activities.AverageLineCutActivity" />
-123-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:9-71
-123-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:19-68
+123-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:9-71
+123-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:107:19-68
 124        <activity android:name="com.malas.appsr.malasapp.activities.TopViewReport" />
-124-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:9-62
-124-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:19-59
+124-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:9-62
+124-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:108:19-59
 125        <activity android:name="com.malas.appsr.malasapp.activities.AverageBillReport" />
-125-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:9-66
-125-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:19-63
+125-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:9-66
+125-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:109:19-63
 126        <activity android:name="com.malas.appsr.malasapp.activities.UniqueBillOutletReport" />
-126-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:9-71
-126-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:19-68
+126-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:9-71
+126-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:110:19-68
 127        <activity android:name="com.malas.appsr.malasapp.activities.ProductivityReport" />
-127-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:9-67
-127-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:19-64
+127-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:9-67
+127-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:111:19-64
 128        <activity
-128-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:112:9-114:59
+128-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:112:9-114:59
 129            android:name="com.malas.appsr.malasapp.activities.SRReasonActivity"
-129-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:113:13-56
+129-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:113:13-56
 130            android:theme="@android:style/Theme.Dialog" />
-130-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:114:13-56
+130-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:114:13-56
 131        <activity android:name="com.malas.appsr.malasapp.activities.BroadcastActivity" />
-131-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:9-66
-131-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:19-63
+131-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:9-66
+131-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:115:19-63
 132        <activity android:name="com.malas.appsr.malasapp.activities.PlaceOrderListActivity" />
-132-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:9-71
-132-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:19-68
+132-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:9-71
+132-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:116:19-68
 133        <activity android:name="com.malas.appsr.malasapp.activities.ShowPreviousPlacedOrderList" />
-133-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:9-76
-133-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:19-73
+133-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:9-76
+133-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:117:19-73
 134        <activity android:name="com.malas.appsr.malasapp.activities.UploadImageForActivity" />
-134-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:9-71
-134-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:19-68
-135        <activity
-135-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:119:9-121:59
-136            android:name="com.malas.appsr.malasapp.activities.ConfirmPlaceOrderActivity"
-136-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:120:13-65
-137            android:theme="@android:style/Theme.Dialog" />
-137-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:121:13-56
-138        <activity
-138-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:122:9-124:59
-139            android:name="com.malas.appsr.malasapp.activities.CustomerFeedbackListActivity"
-139-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:123:13-68
-140            android:theme="@android:style/Theme.Dialog" />
-140-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:124:13-56
-141        <activity
-141-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:125:9-127:59
-142            android:name="com.malas.appsr.malasapp.activities.OfflineOrderData"
-142-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:126:13-56
-143            android:theme="@android:style/Theme.Dialog" />
-143-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:127:13-56
-144        <activity
-144-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:128:9-130:59
-145            android:name="com.malas.appsr.malasapp.activities.ActivityLoginDetailsDialog"
-145-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:129:13-66
-146            android:theme="@android:style/Theme.Dialog" />
-146-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:130:13-56
-147        <activity android:name="com.malas.appsr.malasapp.activities.ActivitySR" />
-147-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:9-59
-147-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:19-56
-148        <activity android:name="com.malas.appsr.malasapp.activities.ActivitySRDetail" />
-148-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:9-65
-148-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:19-62
-149        <activity android:name="com.malas.appsr.malasapp.activities.LeaveMangementActivity" />
-149-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:9-71
-149-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:19-68
-150        <activity android:name="com.malas.appsr.malasapp.activities.ActivitySelectDetail" />
-150-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:9-69
-150-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:19-66
-151        <activity android:name="com.malas.appsr.malasapp.activities.CustomerActivityForm" /> <!-- Firebase Notifications -->
-151-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:9-69
-151-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:19-66
-152        <service
-152-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:136:9-142:19
-153            android:name="com.malas.appsr.malasapp.service.MyFirebaseMessagingService"
-153-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:137:13-63
-154            android:exported="false" >
-154-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:138:13-37
-155            <intent-filter>
-155-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:139:13-141:29
-156                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-156-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:17-78
-156-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:25-75
-157            </intent-filter>
-158        </service>
-159        <service android:name="com.malas.appsr.malasapp.services.geocoder.FetchAddressIntentService" />
-159-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:9-80
-159-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:18-77
+134-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:9-71
+134-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:118:19-68
+135        <activity android:name="com.malas.appsr.malasapp.activities.ConfirmPlaceOrderActivity" />
+135-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:119:9-121:14
+135-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:120:13-65
+136        <activity
+136-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:122:9-124:59
+137            android:name="com.malas.appsr.malasapp.activities.CustomerFeedbackListActivity"
+137-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:123:13-68
+138            android:theme="@android:style/Theme.Dialog" />
+138-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:124:13-56
+139        <activity
+139-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:125:9-127:59
+140            android:name="com.malas.appsr.malasapp.activities.OfflineOrderData"
+140-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:126:13-56
+141            android:theme="@android:style/Theme.Dialog" />
+141-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:127:13-56
+142        <activity
+142-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:128:9-130:59
+143            android:name="com.malas.appsr.malasapp.activities.ActivityLoginDetailsDialog"
+143-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:129:13-66
+144            android:theme="@android:style/Theme.Dialog" />
+144-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:130:13-56
+145        <activity android:name="com.malas.appsr.malasapp.activities.ActivitySR" />
+145-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:9-59
+145-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:131:19-56
+146        <activity android:name="com.malas.appsr.malasapp.activities.ActivitySRDetail" />
+146-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:9-65
+146-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:132:19-62
+147        <activity android:name="com.malas.appsr.malasapp.activities.LeaveMangementActivity" />
+147-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:9-71
+147-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:133:19-68
+148        <activity android:name="com.malas.appsr.malasapp.activities.ActivitySelectDetail" />
+148-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:9-69
+148-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:134:19-66
+149        <activity android:name="com.malas.appsr.malasapp.activities.CustomerActivityForm" /> <!-- Firebase Notifications -->
+149-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:9-69
+149-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:135:19-66
+150        <service
+150-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:136:9-142:19
+151            android:name="com.malas.appsr.malasapp.service.MyFirebaseMessagingService"
+151-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:137:13-63
+152            android:exported="false" >
+152-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:138:13-37
+153            <intent-filter>
+153-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:139:13-141:29
+154                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+154-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:17-78
+154-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:25-75
+155            </intent-filter>
+156        </service>
+157        <service android:name="com.malas.appsr.malasapp.services.geocoder.FetchAddressIntentService" />
+157-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:9-80
+157-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:143:18-77
+158
+159        <activity android:name="com.malas.appsr.malasapp.util.HalfCircleProgressDemo" />
+159-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:9-65
+159-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:19-62
 160
-161        <activity android:name="com.malas.appsr.malasapp.util.HalfCircleProgressDemo" />
-161-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:9-65
-161-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:145:19-62
-162
-163        <provider
-163-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:147:9-155:20
-164            android:name="androidx.core.content.FileProvider"
-164-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:148:13-62
-165            android:authorities="com.malas.appsr.fileprovider"
-165-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:149:13-63
-166            android:exported="false"
-166-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:150:13-37
-167            android:grantUriPermissions="true" >
-167-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:151:13-47
-168            <meta-data
-168-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:152:13-154:56
-169                android:name="android.support.FILE_PROVIDER_PATHS"
-169-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:153:17-67
-170                android:resource="@xml/fileprovider" />
-170-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:154:17-53
-171        </provider>
-172
-173        <activity
-173-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
-174            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-174-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
-175            android:excludeFromRecents="true"
-175-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
-176            android:exported="false"
-176-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
-177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-177-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
-178        <!--
-179            Service handling Google Sign-In user revocation. For apps that do not integrate with
-180            Google Sign-In, this service will never be started.
-181        -->
-182        <service
-182-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
-183            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-183-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
-184            android:exported="true"
-184-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
-185            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-185-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
-186            android:visibleToInstantApps="true" />
-186-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
-187
-188        <receiver
-188-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:31:9-38:20
-189            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-189-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:32:13-78
-190            android:exported="true"
-190-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:33:13-36
-191            android:permission="com.google.android.c2dm.permission.SEND" >
-191-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:34:13-73
-192            <intent-filter>
-192-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:35:13-37:29
-193                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-193-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:36:17-81
-193-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:36:25-78
-194            </intent-filter>
-195        </receiver>
-196        <!--
-197             FirebaseMessagingService performs security checks at runtime,
-198             but set to not exported to explicitly avoid allowing another app to call it.
-199        -->
-200        <service
-200-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:44:9-51:19
-201            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-201-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:45:13-82
-202            android:directBootAware="true"
-202-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:46:13-43
-203            android:exported="false" >
-203-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:47:13-37
-204            <intent-filter android:priority="-500" >
-204-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:139:13-141:29
-205                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-205-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:17-78
-205-->C:\Users\Ajiz\AndroidStudioProjects\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:25-75
-206            </intent-filter>
-207        </service>
-208        <service
-208-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:52:9-58:19
-209            android:name="com.google.firebase.components.ComponentDiscoveryService"
-209-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:53:13-84
-210            android:directBootAware="true"
-210-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
-211            android:exported="false" >
-211-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:54:13-37
-212            <meta-data
-212-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:55:13-57:85
-213                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-213-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:56:17-119
-214                android:value="com.google.firebase.components.ComponentRegistrar" />
-214-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:57:17-82
-215            <meta-data
-215-->[com.google.firebase:firebase-crashlytics:18.2.12] C:\Users\Ajiz\.gradle\caches\transforms-3\57e627d156e6760c31948bb3f23d9749\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:18:13-20:85
-216                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
-216-->[com.google.firebase:firebase-crashlytics:18.2.12] C:\Users\Ajiz\.gradle\caches\transforms-3\57e627d156e6760c31948bb3f23d9749\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:19:17-115
-217                android:value="com.google.firebase.components.ComponentRegistrar" />
-217-->[com.google.firebase:firebase-crashlytics:18.2.12] C:\Users\Ajiz\.gradle\caches\transforms-3\57e627d156e6760c31948bb3f23d9749\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:20:17-82
-218            <meta-data
-218-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e200457bb36e84cdb4fc33aca53f8bd7\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
-219                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-219-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e200457bb36e84cdb4fc33aca53f8bd7\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
-220                android:value="com.google.firebase.components.ComponentRegistrar" />
-220-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e200457bb36e84cdb4fc33aca53f8bd7\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
-221            <meta-data
-221-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\d04bacc02b3f2a142be5d19de3e427d1\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
-222                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-222-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\d04bacc02b3f2a142be5d19de3e427d1\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
-223                android:value="com.google.firebase.components.ComponentRegistrar" />
-223-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\d04bacc02b3f2a142be5d19de3e427d1\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
-224            <meta-data
-224-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ajiz\.gradle\caches\transforms-3\0b0fe2fcfb43311cb466fae47853fac9\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
-225                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-225-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ajiz\.gradle\caches\transforms-3\0b0fe2fcfb43311cb466fae47853fac9\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
-226                android:value="com.google.firebase.components.ComponentRegistrar" />
-226-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ajiz\.gradle\caches\transforms-3\0b0fe2fcfb43311cb466fae47853fac9\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
-227        </service>
-228
-229        <activity
-229-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-230            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-230-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-231            android:exported="false"
-231-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-232            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-232-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-233
-234        <provider
-234-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
-235            android:name="com.google.firebase.provider.FirebaseInitProvider"
-235-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
-236            android:authorities="com.malas.appsr.malasapp.firebaseinitprovider"
-236-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
-237            android:directBootAware="true"
-237-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
-238            android:exported="false"
-238-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
-239            android:initOrder="100" />
-239-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
-240
-241        <receiver
-241-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
-242            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-242-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
-243            android:enabled="true"
-243-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
-244            android:exported="false" >
-244-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
-245        </receiver>
-246
-247        <service
-247-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
-248            android:name="com.google.android.gms.measurement.AppMeasurementService"
-248-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
-249            android:enabled="true"
-249-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
-250            android:exported="false" />
-250-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
-251        <service
-251-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
-252            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-252-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
-253            android:enabled="true"
-253-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
-254            android:exported="false"
-254-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
-255            android:permission="android.permission.BIND_JOB_SERVICE" />
-255-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
-256
-257        <meta-data
-257-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\25cd555cb43f9d17cdf040ea31ad1f1e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-258            android:name="com.google.android.gms.version"
-258-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\25cd555cb43f9d17cdf040ea31ad1f1e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-259            android:value="@integer/google_play_services_version" />
-259-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\25cd555cb43f9d17cdf040ea31ad1f1e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-260
-261        <provider
-261-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-262            android:name="androidx.startup.InitializationProvider"
-262-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-263            android:authorities="com.malas.appsr.malasapp.androidx-startup"
-263-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-264            android:exported="false" >
-264-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-265            <meta-data
-265-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-266                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-266-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-267                android:value="androidx.startup" />
-267-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-268            <meta-data
-268-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ajiz\.gradle\caches\transforms-3\59e0edeb5cae49b2adccf423d849fbd4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-269                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-269-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ajiz\.gradle\caches\transforms-3\59e0edeb5cae49b2adccf423d849fbd4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-270                android:value="androidx.startup" />
-270-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ajiz\.gradle\caches\transforms-3\59e0edeb5cae49b2adccf423d849fbd4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-271        </provider>
-272
-273        <uses-library
-273-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
-274            android:name="androidx.window.extensions"
-274-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
-275            android:required="false" />
-275-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
-276        <uses-library
-276-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
-277            android:name="androidx.window.sidecar"
-277-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
-278            android:required="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
-278-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
-279        <activity
-279-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:18:9-24:45
-280            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
-280-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:19:13-100
-281            android:enabled="false"
-281-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:20:13-36
-282            android:exported="false"
-282-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:21:13-37
-283            android:launchMode="singleInstance"
-283-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:22:13-48
-284            android:process=":playcore_missing_splits_activity"
-284-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:23:13-64
-285            android:stateNotNeeded="true" />
-285-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:24:13-42
-286        <activity
-286-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:25:9-29:65
-287            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-287-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:26:13-93
-288            android:exported="false"
-288-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:27:13-37
-289            android:stateNotNeeded="true"
-289-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:28:13-42
-290            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
-290-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:29:13-62
-291        <service
-291-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:32:9-39:19
-292            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
-292-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:33:13-94
-293            android:enabled="false"
-293-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:34:13-36
-294            android:exported="true" >
-294-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:35:13-36
-295            <meta-data
-295-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:36:13-38:41
-296                android:name="com.google.android.play.core.assetpacks.versionCode"
-296-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:37:17-83
-297                android:value="11003" />
-297-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:38:17-38
-298        </service>
-299        <service
-299-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:40:9-43:40
-300            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
-300-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:41:13-95
-301            android:enabled="false"
-301-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:42:13-36
-302            android:exported="false" />
-302-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:43:13-37
-303        <service
-303-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
-304            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-304-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
-305            android:exported="false" >
-305-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
-306            <meta-data
-306-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
-307                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-307-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
-308                android:value="cct" />
-308-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
-309        </service>
-310        <service
-310-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
-311            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-311-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
-312            android:exported="false"
-312-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
-313            android:permission="android.permission.BIND_JOB_SERVICE" >
-313-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
-314        </service>
-315
-316        <receiver
-316-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
-317            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-317-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
-318            android:exported="false" />
-318-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
-319    </application>
-320
-321</manifest>
+161        <provider
+161-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:147:9-155:20
+162            android:name="androidx.core.content.FileProvider"
+162-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:148:13-62
+163            android:authorities="com.malas.appsr.fileprovider"
+163-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:149:13-63
+164            android:exported="false"
+164-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:150:13-37
+165            android:grantUriPermissions="true" >
+165-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:151:13-47
+166            <meta-data
+166-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:152:13-154:56
+167                android:name="android.support.FILE_PROVIDER_PATHS"
+167-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:153:17-67
+168                android:resource="@xml/fileprovider" />
+168-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:154:17-53
+169        </provider>
+170
+171        <activity
+171-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+172            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+172-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+173            android:excludeFromRecents="true"
+173-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+174            android:exported="false"
+174-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+175            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+175-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+176        <!--
+177            Service handling Google Sign-In user revocation. For apps that do not integrate with
+178            Google Sign-In, this service will never be started.
+179        -->
+180        <service
+180-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+181            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+181-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+182            android:exported="true"
+182-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+183            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+183-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+184            android:visibleToInstantApps="true" />
+184-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\Ajiz\.gradle\caches\transforms-3\23d860f3bdce0a84d95fdb347e50a83d\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+185
+186        <receiver
+186-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:31:9-38:20
+187            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+187-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:32:13-78
+188            android:exported="true"
+188-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:33:13-36
+189            android:permission="com.google.android.c2dm.permission.SEND" >
+189-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:34:13-73
+190            <intent-filter>
+190-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:35:13-37:29
+191                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+191-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:36:17-81
+191-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:36:25-78
+192            </intent-filter>
+193        </receiver>
+194        <!--
+195             FirebaseMessagingService performs security checks at runtime,
+196             but set to not exported to explicitly avoid allowing another app to call it.
+197        -->
+198        <service
+198-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:44:9-51:19
+199            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+199-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:45:13-82
+200            android:directBootAware="true"
+200-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:46:13-43
+201            android:exported="false" >
+201-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:47:13-37
+202            <intent-filter android:priority="-500" >
+202-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:139:13-141:29
+203                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+203-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:17-78
+203-->C:\Users\Ajiz\StudioProjects\malas_sr\MalasNEW\Malas_SR_APP\app\src\main\AndroidManifest.xml:140:25-75
+204            </intent-filter>
+205        </service>
+206        <service
+206-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:52:9-58:19
+207            android:name="com.google.firebase.components.ComponentDiscoveryService"
+207-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:53:13-84
+208            android:directBootAware="true"
+208-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+209            android:exported="false" >
+209-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:54:13-37
+210            <meta-data
+210-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:55:13-57:85
+211                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+211-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:56:17-119
+212                android:value="com.google.firebase.components.ComponentRegistrar" />
+212-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\52a13d7ab89ba7b41c6edb8345199c10\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:57:17-82
+213            <meta-data
+213-->[com.google.firebase:firebase-crashlytics:18.2.12] C:\Users\Ajiz\.gradle\caches\transforms-3\57e627d156e6760c31948bb3f23d9749\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:18:13-20:85
+214                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+214-->[com.google.firebase:firebase-crashlytics:18.2.12] C:\Users\Ajiz\.gradle\caches\transforms-3\57e627d156e6760c31948bb3f23d9749\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:19:17-115
+215                android:value="com.google.firebase.components.ComponentRegistrar" />
+215-->[com.google.firebase:firebase-crashlytics:18.2.12] C:\Users\Ajiz\.gradle\caches\transforms-3\57e627d156e6760c31948bb3f23d9749\transformed\jetified-firebase-crashlytics-18.2.12\AndroidManifest.xml:20:17-82
+216            <meta-data
+216-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e200457bb36e84cdb4fc33aca53f8bd7\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+217                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+217-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e200457bb36e84cdb4fc33aca53f8bd7\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+218                android:value="com.google.firebase.components.ComponentRegistrar" />
+218-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\e200457bb36e84cdb4fc33aca53f8bd7\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+219            <meta-data
+219-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\d04bacc02b3f2a142be5d19de3e427d1\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+220                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+220-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\d04bacc02b3f2a142be5d19de3e427d1\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+221                android:value="com.google.firebase.components.ComponentRegistrar" />
+221-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\d04bacc02b3f2a142be5d19de3e427d1\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+222            <meta-data
+222-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ajiz\.gradle\caches\transforms-3\0b0fe2fcfb43311cb466fae47853fac9\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+223                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+223-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ajiz\.gradle\caches\transforms-3\0b0fe2fcfb43311cb466fae47853fac9\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+224                android:value="com.google.firebase.components.ComponentRegistrar" />
+224-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ajiz\.gradle\caches\transforms-3\0b0fe2fcfb43311cb466fae47853fac9\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+225        </service>
+226
+227        <activity
+227-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+228            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+228-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+229            android:exported="false"
+229-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+230            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+230-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ajiz\.gradle\caches\transforms-3\4174a0ac2dd77fc6579f6b14d9f29259\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+231
+232        <provider
+232-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+233            android:name="com.google.firebase.provider.FirebaseInitProvider"
+233-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+234            android:authorities="com.malas.appsr.malasapp.firebaseinitprovider"
+234-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+235            android:directBootAware="true"
+235-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+236            android:exported="false"
+236-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+237            android:initOrder="100" />
+237-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\8cc03de644e1efef520b19d299f176d6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+238
+239        <receiver
+239-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+240            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+240-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+241            android:enabled="true"
+241-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+242            android:exported="false" >
+242-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+243        </receiver>
+244
+245        <service
+245-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+246            android:name="com.google.android.gms.measurement.AppMeasurementService"
+246-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+247            android:enabled="true"
+247-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+248            android:exported="false" />
+248-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+249        <service
+249-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+250            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+250-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+251            android:enabled="true"
+251-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+252            android:exported="false"
+252-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+253            android:permission="android.permission.BIND_JOB_SERVICE" />
+253-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\fe44ee1ec98433685198dcdad127c1f9\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+254
+255        <meta-data
+255-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\25cd555cb43f9d17cdf040ea31ad1f1e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+256            android:name="com.google.android.gms.version"
+256-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\25cd555cb43f9d17cdf040ea31ad1f1e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+257            android:value="@integer/google_play_services_version" />
+257-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ajiz\.gradle\caches\transforms-3\25cd555cb43f9d17cdf040ea31ad1f1e\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+258
+259        <provider
+259-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+260            android:name="androidx.startup.InitializationProvider"
+260-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+261            android:authorities="com.malas.appsr.malasapp.androidx-startup"
+261-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+262            android:exported="false" >
+262-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+263            <meta-data
+263-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+264                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+264-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+265                android:value="androidx.startup" />
+265-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ajiz\.gradle\caches\transforms-3\b9dc6f26015b48381423ac94795c44bd\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+266            <meta-data
+266-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ajiz\.gradle\caches\transforms-3\59e0edeb5cae49b2adccf423d849fbd4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+267                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+267-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ajiz\.gradle\caches\transforms-3\59e0edeb5cae49b2adccf423d849fbd4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+268                android:value="androidx.startup" />
+268-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ajiz\.gradle\caches\transforms-3\59e0edeb5cae49b2adccf423d849fbd4\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+269        </provider>
+270
+271        <uses-library
+271-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+272            android:name="androidx.window.extensions"
+272-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+273            android:required="false" />
+273-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+274        <uses-library
+274-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+275            android:name="androidx.window.sidecar"
+275-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+276            android:required="false" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+276-->[androidx.window:window:1.0.0] C:\Users\Ajiz\.gradle\caches\transforms-3\f221d3fa87de65a0fa2115626c925147\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+277        <activity
+277-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:18:9-24:45
+278            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+278-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:19:13-100
+279            android:enabled="false"
+279-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:20:13-36
+280            android:exported="false"
+280-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:21:13-37
+281            android:launchMode="singleInstance"
+281-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:22:13-48
+282            android:process=":playcore_missing_splits_activity"
+282-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:23:13-64
+283            android:stateNotNeeded="true" />
+283-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:24:13-42
+284        <activity
+284-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:25:9-29:65
+285            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+285-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:26:13-93
+286            android:exported="false"
+286-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:27:13-37
+287            android:stateNotNeeded="true"
+287-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:28:13-42
+288            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+288-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:29:13-62
+289        <service
+289-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:32:9-39:19
+290            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+290-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:33:13-94
+291            android:enabled="false"
+291-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:34:13-36
+292            android:exported="true" >
+292-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:35:13-36
+293            <meta-data
+293-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:36:13-38:41
+294                android:name="com.google.android.play.core.assetpacks.versionCode"
+294-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:37:17-83
+295                android:value="11003" />
+295-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:38:17-38
+296        </service>
+297        <service
+297-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:40:9-43:40
+298            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+298-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:41:13-95
+299            android:enabled="false"
+299-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:42:13-36
+300            android:exported="false" />
+300-->[com.google.android.play:core:1.10.3] C:\Users\Ajiz\.gradle\caches\transforms-3\e67acc325edd382f6229f27fd909c090\transformed\jetified-core-1.10.3\AndroidManifest.xml:43:13-37
+301        <service
+301-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+302            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+302-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+303            android:exported="false" >
+303-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+304            <meta-data
+304-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+305                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+305-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+306                android:value="cct" />
+306-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\c78af5078c76df6dfe315e02c22db182\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+307        </service>
+308        <service
+308-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+309            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+309-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+310            android:exported="false"
+310-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+311            android:permission="android.permission.BIND_JOB_SERVICE" >
+311-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+312        </service>
+313
+314        <receiver
+314-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+315            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+315-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+316            android:exported="false" />
+316-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ajiz\.gradle\caches\transforms-3\0f58af92ba0bd1c522302639e6753f35\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+317    </application>
+318
+319</manifest>

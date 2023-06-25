@@ -42,11 +42,14 @@ public final class ActivityHolidayCalendarBinding implements ViewBinding {
   @NonNull
   public final RecyclerView holidaySummary;
 
+  @NonNull
+  public final TextView noHoliday;
+
   private ActivityHolidayCalendarBinding(@NonNull LinearLayout rootView,
       @NonNull TextView calendarAbsent, @NonNull TextView calendarHoliday,
       @NonNull TextView calendarLeave, @NonNull TextView calendarPresent,
       @NonNull TextView calendarWeekoff, @NonNull RobotoCalendarView holiday,
-      @NonNull RecyclerView holidaySummary) {
+      @NonNull RecyclerView holidaySummary, @NonNull TextView noHoliday) {
     this.rootView = rootView;
     this.calendarAbsent = calendarAbsent;
     this.calendarHoliday = calendarHoliday;
@@ -55,6 +58,7 @@ public final class ActivityHolidayCalendarBinding implements ViewBinding {
     this.calendarWeekoff = calendarWeekoff;
     this.holiday = holiday;
     this.holidaySummary = holidaySummary;
+    this.noHoliday = noHoliday;
   }
 
   @Override
@@ -126,9 +130,15 @@ public final class ActivityHolidayCalendarBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.no_holiday;
+      TextView noHoliday = ViewBindings.findChildViewById(rootView, id);
+      if (noHoliday == null) {
+        break missingId;
+      }
+
       return new ActivityHolidayCalendarBinding((LinearLayout) rootView, calendarAbsent,
-          calendarHoliday, calendarLeave, calendarPresent, calendarWeekoff, holiday,
-          holidaySummary);
+          calendarHoliday, calendarLeave, calendarPresent, calendarWeekoff, holiday, holidaySummary,
+          noHoliday);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

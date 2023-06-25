@@ -223,9 +223,9 @@ public class HomeActivity extends AppCompatActivity
             mtMenu.findItem(R.id.nav_take_order).setVisible(false);
             mtMenu.findItem(R.id.nav_place_order).setVisible(false);
             mtMenu.findItem(R.id.nav_report).setVisible(false);
-            mtMenu.findItem(R.id.nav_broadcast).setVisible(false);
+     /*       mtMenu.findItem(R.id.nav_broadcast).setVisible(false);
             mtMenu.findItem(R.id.nav_activity).setVisible(false);
-        }
+      */  }
         navigationView.setNavigationItemSelectedListener(this);
         navigationView.setItemIconTintList(null);
         if (!mUserLoginInfoBean.getTerritoryName().equalsIgnoreCase("null")) {
@@ -653,12 +653,12 @@ public class HomeActivity extends AppCompatActivity
                     Toast.makeText(HomeActivity.this, "You Can't Send DSR as you have Not marked attendance", Toast.LENGTH_SHORT).show();
                 }
             }
-        } else if (id == R.id.nav_broadcast) {
+      /*  } else if (id == R.id.nav_broadcast) {
             Intent in_navOut = new Intent(HomeActivity.this, BroadcastActivity.class);
             startActivity(in_navOut);
         } else if (id == R.id.nav_activity) {
             Intent in_navOut = new Intent(HomeActivity.this, ActivitySR.class);
-            startActivity(in_navOut);
+            startActivity(in_navOut);*/
         } else if (id == R.id.nav_holiday_calendar) {
             Intent in_navOut = new Intent(HomeActivity.this, HolidayCalendar.class);
             startActivity(in_navOut);

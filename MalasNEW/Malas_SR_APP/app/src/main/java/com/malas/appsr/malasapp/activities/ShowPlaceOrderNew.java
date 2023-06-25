@@ -148,6 +148,7 @@ public class ShowPlaceOrderNew extends AppCompatActivity implements PlaceOrderCa
                     submitconfirmation.putExtra("itemList", getProductList());
                     submitconfirmation.putExtra("userId", mUserLoginInfoBean.getUserId());
                     submitconfirmation.putExtra("distributorId", distributerId);
+                    submitconfirmation.putExtra("distributorName", firmName);
                     submitconfirmation.putExtra("latitude", latitude);
                     submitconfirmation.putExtra("longitude", longitude);
                     submitconfirmation.putExtra("address", addressStr);

@@ -15,6 +15,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.Amitlibs.net.HttpUrlConnectionJSONParser;
 import com.Amitlibs.utils.ComplexPreferences;
 import com.google.gson.reflect.TypeToken;
@@ -43,11 +45,11 @@ import java.util.Objects;
  * Created by Arwa on 30-Jan-18.
  */
 
-public class ConfirmPlaceOrderActivity extends Activity {
+public class ConfirmPlaceOrderActivity extends AppCompatActivity {
     ListView lv_place_order_list;
     Button btnConfirm, btnCancel;
     ArrayList<PlaceOrderListBean> itemList;
-    String userId, distributorId, latitude, longitude, address;
+    String userId, distributorId,distributorName, latitude, longitude, address;
     ArrayList<PlaceOrderItemBean> getTemporyIOtem;
     TextView tv_text_total;
     int totalInboxSize;
@@ -76,10 +78,12 @@ public class ConfirmPlaceOrderActivity extends Activity {
             itemList = (ArrayList<PlaceOrderListBean>) getIntent().getSerializableExtra("itemList");
             userId = intent.getStringExtra("userId");
             distributorId = intent.getStringExtra("distributorId");
+            distributorName = intent.getStringExtra("distributorName");
             latitude = intent.getStringExtra("latitude");
             longitude = intent.getStringExtra("longitude");
             address = intent.getStringExtra("address");
         }
+        Objects.requireNonNull(getSupportActionBar()).setTitle(distributorName);
 
         if (itemList != null) {
             if (itemList.size() > 0) {
