@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
+import android.widget.ExpandableListView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -95,15 +96,17 @@ public class JamOutletOrderExpandListAdapter extends BaseExpandableListAdapter {
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView = infalInflater.inflate(R.layout.jam_list_group_for_outlet_order, null);
         }
-
+        ExpandableListView eLV = (ExpandableListView) parent;
+        eLV.expandGroup(groupPosition);
         LinearLayout llHeader = convertView.findViewById(R.id.llHeader);
 
-        if (isExpanded) {
+
+       /* if (isExpanded) {
             llHeader.setVisibility(View.VISIBLE);
         } else {
             llHeader.setVisibility(View.GONE);
         }
-
+*/
 
         TextView lblListHeader = convertView.findViewById(R.id.lblListHeader);
         lblListHeader.setTypeface(null, Typeface.BOLD);

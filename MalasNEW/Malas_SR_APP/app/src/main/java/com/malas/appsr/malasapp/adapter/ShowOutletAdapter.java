@@ -40,6 +40,7 @@ import com.malas.appsr.malasapp.Constant;
 import com.malas.appsr.malasapp.R;
 import com.malas.appsr.malasapp.Utils;
 import com.malas.appsr.malasapp.activities.AddNewOutletActivity;
+import com.malas.appsr.malasapp.activities.AddTakeOrder;
 import com.malas.appsr.malasapp.activities.OutletOrdersActivity;
 import com.malas.appsr.malasapp.activities.SRReasonActivity;
 import com.malas.appsr.malasapp.dbHandler.DatabaseHandler;
@@ -83,7 +84,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
     public ShowOutletAdapter(Context mContext, ArrayList<ShowOutLetBeen> outletList, DistributerBean selectedDistributerBean, RouteBean selectedRouteBean, String from, ArrayList<HighLightBean> highLightBeans) {
         this.mContext = mContext;
         this.outletList = outletList;
-        this.outletList_All=new ArrayList<>(outletList);
+        this.outletList_All = new ArrayList<>(outletList);
         this.selectedDistributerBean = selectedDistributerBean;
         this.selectedRouteBean = selectedRouteBean;
         this.from = from;
@@ -255,6 +256,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
             holder.ivProductive = convertView.findViewById(R.id.iv_productive);
             holder.tvHighlight = convertView.findViewById(R.id.tv_highlight);
             holder.ivNonProductive = convertView.findViewById(R.id.iv_non_productive);
+            holder.ivHistory = convertView.findViewById(R.id.iv_history);
 
             //  holder.llOutletRow.setTag(holder);
             convertView.setTag(holder);
@@ -291,8 +293,105 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
             holder.ivMenu.setVisibility(View.GONE);
             holder.ivProductive.setVisibility(View.VISIBLE);
             holder.ivNonProductive.setVisibility(View.VISIBLE);
+            holder.ivHistory.setVisibility(View.VISIBLE);
 
-            holder.ivProductive.setOnClickListener(view -> {
+            holder.ivProductive.setOnClickListener(v -> {
+                // Place an Order
+                /*  if (Utils.isInternetConnected(OutletOrdersActivity.this)) {*/
+               showOutLetBeen= outletList.get(position);
+
+                // Temporary Object Declaration
+                ArrayList<OutletOrdersBean> ordersBeans = db.getOrdersData(showOutLetBeen.getOutlet_id());
+                ArrayList<TakeOutletOrderItemBean> productList;
+                ArrayList<SaveData> saveListFromDb;
+                ArrayList<TakeOutletOrderItemBean> productListEdit;
+                ArrayList<SaveData> saveListFromDbEdit;
+
+                // Saving Data From Local Database in Object
+                saveListFromDb = db.getAllSaveDataRecord(selectedDistributerBean.getDistribution_id(), showOutLetBeen.getOutlet_id());
+                productList = db.getSaveProductRecord(selectedDistributerBean.getDistribution_id(), showOutLetBeen.getOutlet_id());
+
+
+                // Saving Data From Local Database in Object
+                saveListFromDbEdit = db.getEditSaveDataRecord(selectedDistributerBean.getDistribution_id(), showOutLetBeen.getOutlet_id());
+                productListEdit = db.getEditSaveProductRecord(selectedDistributerBean.getDistribution_id(), showOutLetBeen.getOutlet_id());
+
+
+                if (ordersBeans.size() > 0) {
+                    if (saveListFromDb != null && productList != null && saveListFromDb.size() > 0 && productList.size() > 0) {
+                        Toast.makeText(mContext, "Please Connect to Internet And SYNC Order data ", Toast.LENGTH_SHORT).show();
+
+                    } else if (saveListFromDbEdit != null && productListEdit != null && saveListFromDbEdit.size() > 0 && productListEdit.size() > 0) {
+                        Toast.makeText(mContext, "Please Connect to Internet And SYNC Order data ", Toast.LENGTH_SHORT).show();
+                    } else {
+                        if (listOutletOrders != null) {
+                            if (listOutletOrders.size() > 0) {
+                                if (differenceInTwoDates(listOutletOrders.get(0).getOrder_take_time())) {
+                                    Intent intent = new Intent(mContext, AddTakeOrder.class);
+                                    intent.putExtra("showOutLetBeen", showOutLetBeen);
+                                    intent.putExtra("distributerBean", selectedDistributerBean);
+                                    mContext.startActivity(intent);
+                                } else {
+                                    Toast.makeText(mContext, "You have already punched the order for this outlet.", Toast.LENGTH_SHORT).show();
+                                }
+
+                            } else {
+                                Intent intent = new Intent(mContext, AddTakeOrder.class);
+                                intent.putExtra("showOutLetBeen", showOutLetBeen);
+                                intent.putExtra("distributerBean", selectedDistributerBean);
+                                mContext.startActivity(intent);
+                            }
+                        } else {
+                            Intent intent = new Intent(mContext, AddTakeOrder.class);
+                            intent.putExtra("showOutLetBeen", showOutLetBeen);
+                            intent.putExtra("distributerBean", selectedDistributerBean);
+                            mContext.startActivity(intent);
+                        }
+
+                    }
+                } else {
+
+                    if (saveListFromDb != null && productList != null && saveListFromDb.size() > 0 && productList.size() > 0) {
+                        Toast.makeText(mContext, "Please Connect to Internet And SYNC Order data ", Toast.LENGTH_SHORT).show();
+
+                    } else if (saveListFromDbEdit != null && productListEdit != null && saveListFromDbEdit.size() > 0 && productListEdit.size() > 0) {
+                        Toast.makeText(mContext, "Please Connect to Internet And SYNC Order data ", Toast.LENGTH_SHORT).show();
+                    } else {
+
+                        if (listOutletOrders != null) {
+                            if (listOutletOrders.size() > 0) {
+                                if (differenceInTwoDates(listOutletOrders.get(0).getOrder_take_time())) {
+
+                                    Intent intent = new Intent(mContext, AddTakeOrder.class);
+                                    intent.putExtra("showOutLetBeen", showOutLetBeen);
+                                    intent.putExtra("distributerBean", selectedDistributerBean);
+                                    mContext.startActivity(intent);
+                                } else {
+                                    Toast.makeText(mContext, "You have already punched the order for this outlet.", Toast.LENGTH_SHORT).show();
+                                }
+
+                            } else {
+                                Intent intent = new Intent(mContext, AddTakeOrder.class);
+                                intent.putExtra("showOutLetBeen", showOutLetBeen);
+                                intent.putExtra("distributerBean", selectedDistributerBean);
+                                mContext.startActivity(intent);
+                            }
+
+                        } else {
+                            Intent intent = new Intent(mContext, AddTakeOrder.class);
+                            intent.putExtra("showOutLetBeen", showOutLetBeen);
+                            intent.putExtra("distributerBean", selectedDistributerBean);
+                            mContext.startActivity(intent);
+                        }
+
+                    }
+                    offlineAddData();
+                    offlineEditData();
+
+                }
+
+            });
+            holder.ivHistory.setOnClickListener(view -> {
                 Intent intent = new Intent(mContext, OutletOrdersActivity.class);
                 intent.putExtra("outletBean", outletList.get(position));
                 intent.putExtra("distributerBean", selectedDistributerBean);
@@ -348,6 +447,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
         } else {
             holder.ivProductive.setVisibility(View.GONE);
             holder.ivNonProductive.setVisibility(View.GONE);
+            holder.ivHistory.setVisibility(View.GONE);
 
             holder.ivMenu.setOnClickListener(v -> {
                 PopupMenu popup = new PopupMenu(mContext, v);
@@ -396,6 +496,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
         LinearLayout llOutletRow;
         ImageView ivProductive;
         ImageView ivNonProductive;
+        ImageView ivHistory;
         TextView tvHighlight;
     }
 
@@ -576,7 +677,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
 
                         Collections.sort(listOutletOrders, Collections.reverseOrder(new OutletOrdersBean.OrderByTimeStampComparator()));
 
-                      if (listOutletOrders.size() > 0) {
+                        if (listOutletOrders.size() > 0) {
                             if (listOutletOrders.size() > 5) {
                                 ArrayList<OutletOrdersBean> listOutletOrderstemp = new ArrayList<>();
 
@@ -681,6 +782,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
         }
         return date;
     }
+
     @Override
     public Filter getFilter() {
 
@@ -712,7 +814,7 @@ public class ShowOutletAdapter extends BaseAdapter implements Filterable {
             @Override
             protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
                 outletList.clear();
-                outletList.addAll((Collection<? extends ShowOutLetBeen>) filterResults.values );
+                outletList.addAll((Collection<? extends ShowOutLetBeen>) filterResults.values);
                 notifyDataSetChanged();
             }
         };

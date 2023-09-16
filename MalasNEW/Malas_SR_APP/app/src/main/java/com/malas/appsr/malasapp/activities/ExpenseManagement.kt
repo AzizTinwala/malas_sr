@@ -186,7 +186,6 @@ class ExpenseManagement : AppCompatActivity() {
 
                         }
                     }
-
                 }
 
                 view.findViewById<ImageView>(R.id.dayOfTheMonthCircleImage1).visibility == View.VISIBLE -> {
@@ -2242,7 +2241,7 @@ class ExpenseManagement : AppCompatActivity() {
                     matrix.postRotate(90F)
                     Log.d("EXIF", "Exif: $orientation")
                 }
-                3 -> {
+                 3 -> {
                     matrix.postRotate(180F)
                     Log.d("EXIF", "Exif: $orientation")
                 }

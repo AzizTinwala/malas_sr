@@ -67,6 +67,16 @@
                 android:src="@drawable/ic_baseline_remove_shopping_cart_24"
                 android:visibility="gone" />
 
+            <ImageView
+                android:id="@+id/iv_history"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_alignParentRight="true"
+                android:padding="10dp"
+                android:src="@drawable/ic_baseline_file_copy_24"
+                android:visibility="gone" />
+
+
 
         </LinearLayout>
     </RelativeLayout>

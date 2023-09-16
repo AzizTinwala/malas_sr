@@ -154,7 +154,7 @@ public class LoginActivity extends AppCompatActivity {
             nameValuePair.add(new BasicNameValuePair("gcmid_uid", "asasasdsadas"));
 
             //JSONObject jsonObjectFromUrl = new JSONParser().getJsonObjectFromHttp(Constant.BASE_URL, nameValuePair, JSONParser.Http.POST);
-            return new HttpUrlConnectionJSONParser().getJsonObjectFromHttpUrlConnection(Constant.BASE_URL, nameValuePair, HttpUrlConnectionJSONParser.Http.POST);
+            return new HttpUrlConnectionJSONParser().getJsonObjectFromHttpUrlConnection(Constant.BASE_URL,  nameValuePair, HttpUrlConnectionJSONParser.Http.POST);
 
         }
 

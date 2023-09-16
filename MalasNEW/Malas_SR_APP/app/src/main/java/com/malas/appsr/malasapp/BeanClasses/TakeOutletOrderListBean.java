@@ -82,4 +82,11 @@ public class TakeOutletOrderListBean implements Serializable {
     public void setArryItemList(ArrayList<TakeOutletOrderItemBean> arryItemList) {
         this.arryItemList = arryItemList;
     }
+
+    @Override
+    public String toString() {
+        return "TakeOutletOrderListBean{" +
+                "arryItemList=" + arryItemList +
+                '}';
+    }
 }

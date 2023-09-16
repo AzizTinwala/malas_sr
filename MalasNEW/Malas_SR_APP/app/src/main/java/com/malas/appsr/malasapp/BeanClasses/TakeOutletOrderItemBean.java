@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 public class TakeOutletOrderItemBean implements Serializable {
     String distributorId;
-    private  String cat_id;
-    String  catName;
+    private String cat_id;
+    String catName;
     private String outlet_id;
     String product_id;
     String orderUniqueID;
@@ -39,7 +39,7 @@ public class TakeOutletOrderItemBean implements Serializable {
         this.product_mrp = product_mrp;
         this.sku_code = sku_code;
         this.cat_id = cat_id;
-        this.catName=catName;
+        this.catName = catName;
         this.outlet_id = outlet_id;
         this.orderUniqueID = orderUniqueID;
     }
@@ -52,13 +52,13 @@ public class TakeOutletOrderItemBean implements Serializable {
         this.distributorId = distributorId;
     }
 
-    public TakeOutletOrderItemBean( String cat_id, String catName, String product_id,  String product_name,String product_qty,String outlet_id,String orderUniqueID) {
+    public TakeOutletOrderItemBean(String cat_id, String catName, String product_id, String product_name, String product_qty, String outlet_id, String orderUniqueID) {
         this.cat_id = cat_id;
         this.catName = catName;
         this.product_id = product_id;
         this.product_qty = product_qty;
         this.product_name = product_name;
-        this.outlet_id=outlet_id;
+        this.outlet_id = outlet_id;
         this.orderUniqueID = orderUniqueID;
     }
 
@@ -137,5 +137,14 @@ public class TakeOutletOrderItemBean implements Serializable {
 
     public void setSku_code(String sku_code) {
         this.sku_code = sku_code;
+    }
+
+    @Override
+    public String toString() {
+        return "TakeOutletOrderItemBean{" +
+                " product_name='" + product_name + '\'' +
+                ", catName='" + catName + '\'' +
+                ", product_qty='" + product_qty + '\'' +
+                '}';
     }
 }
