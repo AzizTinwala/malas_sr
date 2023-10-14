@@ -2,24 +2,31 @@ package com.malas.appsr.malasapp.activities;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.ExpandableListView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.DividerItemDecoration;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.malas.appsr.malasapp.R;
 import com.malas.appsr.malasapp.BeanClasses.ShowOutLetBeen;
 import com.malas.appsr.malasapp.BeanClasses.TakeOutletOrderItemBean;
 import com.malas.appsr.malasapp.BeanClasses.TakeOutletOrderListBean;
+import com.malas.appsr.malasapp.BeanClasses.TakenOrderBean;
+import com.malas.appsr.malasapp.R;
 import com.malas.appsr.malasapp.adapter.JamOutletOrderExpandListAdapter;
+import com.malas.appsr.malasapp.adapter.TakenOrderAdapter;
 
 import org.json.JSONObject;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Objects;
 
 public class ViewTakenOrder extends AppCompatActivity {
@@ -33,6 +40,7 @@ public class ViewTakenOrder extends AppCompatActivity {
     ArrayList<TakeOutletOrderListBean> itemList;
     TextView tvDistributorName, tvRouteName;
     ShowOutLetBeen showOutLetBeen;
+    RecyclerView rView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,7 +52,11 @@ public class ViewTakenOrder extends AppCompatActivity {
         expListView = findViewById(R.id.lvjam);
         tvDistributorName = findViewById(R.id.tvDistributorName);
         tvRouteName = findViewById(R.id.tvRouteName);
+        rView = findViewById(R.id.product_view);
+        DividerItemDecoration dividerItemDecoration = new DividerItemDecoration(this, DividerItemDecoration.VERTICAL);
+        rView.addItemDecoration(dividerItemDecoration);
 
+        rView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.VERTICAL,false));
         if (getIntent().hasExtra("outletBean")) {
             showOutLetBeen = (ShowOutLetBeen) getIntent().getSerializableExtra("outletBean");
             tvDistributorName.setText(showOutLetBeen.getOutlet_name());
@@ -56,13 +68,16 @@ public class ViewTakenOrder extends AppCompatActivity {
         }.getType();
 
         itemList = new Gson().fromJson(getIntent().getStringExtra("list"), typeTakeStockList);
-        prepareListData(itemList);
+        //    prepareListData(itemList);
+        prepareListDataTable(itemList);
+        Log.e("TAG", "onCreate: " + itemList.toString());
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        prepareListData(itemList);
+      //  prepareListData(itemList);
+        prepareListDataTable(itemList);
 
         //mGetloginDetails = new mGetPreviousPlacedOrderData().execute();
     }
@@ -91,4 +106,20 @@ public class ViewTakenOrder extends AppCompatActivity {
         listAdapter = new JamOutletOrderExpandListAdapter(this, listDataHeader, listDataChild);
         expListView.setAdapter(listAdapter);
     }
+
+    private void prepareListDataTable(ArrayList<TakeOutletOrderListBean> itemList) {
+        List<TakenOrderBean> newList = new ArrayList<>();
+        for (int i = 0; i < itemList.size(); i++) {
+            for (int j = 0; j < itemList.get(i).getArryItemList().size(); j++) {
+                newList.add(new TakenOrderBean(itemList.get(i).getArryItemList().get(j).getProduct_id(),
+                        itemList.get(i).getArryItemList().get(j).getProduct_name(),
+                        itemList.get(i).getId(),
+                        itemList.get(i).getItem(),
+                        itemList.get(i).getArryItemList().get(j).getProduct_qty()));
+            }
+        }
+        Log.e("TAG", "prepareListDataTable: " + newList.toString());
+        rView.setAdapter(new TakenOrderAdapter(newList));
+    }
 }
+
